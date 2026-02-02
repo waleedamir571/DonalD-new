@@ -1,33 +1,36 @@
+
+<?php include 'backend/function/meta.php' ?>
+
 <!doctype html>
 <html lang="en-US">
-
-
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
 
-    <title>Top Book Publishing Company in USA | Donald’s Book Publishing</title>
-    <meta name="keywords" content="website">
-    <meta name="description"
-        content="Get your book published with the best book publishing services in USA. Trusted by authors for editing, design, and global distribution.">
-    <!-- <meta name="google-site-verification" content="2u_PbdnuTQn85Wyv1i4o_r744Hx5id4ZP8jG8Wa9vmg" /> -->
-    <meta property="og:title" content="Market, Edit, Get Published: ">
+     <meta property="og:type" content="website" />
+    <meta property="og:title" content="Top Book Publishing Company in USA | Donald’s Book Publishing" />
     <meta property="og:description"
-        content="">
-    <meta property="og:url" content="index.html">
-    <meta property="og:image" content="assets/images/">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:creator" content="@nypublishers">
-    <meta name="twitter:site" content="@nypublishers">
-    <meta name="twitter:image:src" content="assets/images/">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+        content="Get your book published with the best book publishing services in USA. Trusted by authors for editing, design, and global distribution." />
+    <meta name="keywords" content="<?php echo $keywords; ?>" />
+    <meta property="og:url" content="https://donaldsbookpublishing.com/" />
+    <meta property="og:image" content="https://donaldsbookpublishing.com/assets/images/home/logo2.png" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="donaldsbookpublishing" />
+    <title>
+        <?php echo $title_name; ?>
+    </title>
 
-
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="index.html">
-    <link rel="alternate" href="index.html" hreflang="en-US">
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta name="keywords" content="<?php echo $keywords; ?>" />
+    <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER["REQUEST_URI"], '?'); ?>"/>
+     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="donaldsbookpublishing">
+    <meta name="twitter:creator" content="@donaldsbookpublishing">
+    <meta name="twitter:title" content=" Top Book Publishing Company in USA|Donald’s Book Publishing">
+    <meta name="twitter:description"
+        content="Get your book published with the best book publishing services in USA. Trusted by authors for editing, design, and global distribution.">
+    <meta name="twitter:image" content="https://donaldsbookpublishing.com/assets/images/home/logo2.png">
 
 
     <base>
@@ -44,8 +47,6 @@
     <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
 
    
-
-
     <style>
         .cta-btn.btnres {
             margin-bottom: 23px;
