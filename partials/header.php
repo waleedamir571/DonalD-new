@@ -7,7 +7,9 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
      <meta property="og:type" content="website" />
     <meta property="og:title" content="Top Book Publishing Company in USA | Donald’s Book Publishing" />
     <meta property="og:description"
