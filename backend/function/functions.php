@@ -19,34 +19,32 @@ use PHPMailer\PHPMailer\Exception;
 function nameEmailPhoneMessageForm($data, $connection)
 {
     // Sanitize input
-    $name = isset($data['full_name']) ? trim($connection->real_escape_string($data['full_name'])) : '';
+    $name = isset($data['full_name']) ? trim($connection->real_escape_string($data['full_name'])) : (isset($data['name']) ? trim($connection->real_escape_string($data['name'])) : '');
     $email = isset($data['email']) ? trim($connection->real_escape_string($data['email'])) : '';
-    $phone = isset($data['phone_no']) ? trim($connection->real_escape_string($data['phone_no'])) : '';
-    $message = isset($data['message']) ? trim($connection->real_escape_string($data['message'])) : '';
+    $phone = isset($data['phone_no']) ? trim($connection->real_escape_string($data['phone_no'])) : (isset($data['phone']) ? trim($connection->real_escape_string($data['phone'])) : '');
+    $message = isset($data['message']) ? trim($connection->real_escape_string($data['message'])) : (isset($data['brief']) ? trim($connection->real_escape_string($data['brief'])) : '');
+    $service = isset($data['service']) ? trim($connection->real_escape_string($data['service'])) : (isset($data['services']) ? trim($connection->real_escape_string($data['services'])) : '');
 
     // ✅ Backend validation: Required fields
-    if (empty($name) || empty($email) || empty($phone) || empty($message)) {
+    if (empty($name) || empty($email) || empty($phone)) {
         return [
             "status" => "error",
-            "message" => "Full Name, Email, Phone Number, and Message are required."
+            "message" => "Full Name, Email and Phone Number are required."
         ];
     }
 
     // Optional fields
-    $plan_name   = isset($data['plan_name']) ? $connection->real_escape_string($data['plan_name']) : '';
-    $plan_amount = isset($data['plan_amount']) ? $connection->real_escape_string($data['plan_amount']) : '';
+    // $plan_name   = isset($data['plan_name']) ? $connection->real_escape_string($data['plan_name']) : '';
+    // $plan_amount = isset($data['plan_amount']) ? $connection->real_escape_string($data['plan_amount']) : '';
     $page        = isset($data['page']) ? $connection->real_escape_string($data['page']) : '';
     $created_at  = date("Y-m-d H:i:s");
 
-    $services   = isset($data['services']) && is_array($data['services'])
-                ? implode(", ", array_map([$connection, 'real_escape_string'], $data['services']))
-                : '';
-    $manuscript = isset($data['manuscript']) ? $connection->real_escape_string($data['manuscript']) : '';
-    $genre      = isset($data['genre']) ? $connection->real_escape_string($data['genre']) : '';
+    // $manuscript = isset($data['manuscript']) ? $connection->real_escape_string($data['manuscript']) : '';
+    // $genre      = isset($data['genre']) ? $connection->real_escape_string($data['genre']) : '';
 
     // ✅ Insert into DB
-    $query = "INSERT INTO form (page, full_name, email, phone_no, message, plan_name, plan_amount, services, manuscript, genre, created_at)
-              VALUES ('$page', '$name', '$email', '$phone', '$message', '$plan_name','$plan_amount', '$services', '$manuscript', '$genre', '$created_at')";
+    $query = "INSERT INTO form (page, full_name, email, phone_no, message, services, created_at)
+              VALUES ('$page', '$name', '$email', '$phone', '$message', '$service', '$created_at')";
     $connection->query($query);
 
     // Prepare Emails
@@ -56,9 +54,8 @@ function nameEmailPhoneMessageForm($data, $connection)
     <p><strong>Name:</strong> $name</p>
     <p><strong>Email:</strong> $email</p>
     <p><strong>Phone:</strong> $phone</p>
+    <p><strong>Service:</strong> $service</p>
     <p><strong>Message:</strong><br>$message</p>
-    <p><strong>Plan Name:</strong><br>$plan_name</p>
-    <p><strong>Plan Amount:</strong><br>$plan_amount</p>
     ";
 
     $userSubject = 'Donalds Book Publishing has Received Your Message!';
@@ -70,7 +67,7 @@ function nameEmailPhoneMessageForm($data, $connection)
         <p><b>Warm regards,</b></p>
         <p>The Donalds Book Publishing Team.</p>
         <img src='https://donaldsbookpublishing.com/assets/images/home/logo2.png' alt='Donalds Book Publishing' style='max-width: 200px;'>
-        <p>Email: <a href='mailto:no-reply@donaldsbookpublishing.com'>no-reply@donaldsbookpublishing.com</a><br>
+        <p>Email: <a href='mailto:marketing@donaldsbookpublishing.com'>marketing@donaldsbookpublishing.com</a><br>
         Phone: <a href='tel:(551) 290-8897'>(551) 290-8897</a><br>
         Address: 401 Park Avenue South New York NY 10016</p>
     ";
@@ -79,7 +76,7 @@ function nameEmailPhoneMessageForm($data, $connection)
 
     // Send Slack Notification
     $slackContent = json_encode([
-        "text" => "Hi Team,\nWe have received a new lead.\n\nPage: $page\nName: $name\nEmail: $email\nPhone: $phone\nMessage: $message\nPlan Name: $plan_name\nAmount: $plan_amount"
+        "text" => "Hi Team,\nWe have received a new lead.\n\nPage: $page\nName: $name\nEmail: $email\nPhone: $phone\nService: $service\nMessage: $message\n"
     ]);
     sendSlack($slackContent);
 
@@ -94,19 +91,20 @@ function sendEmails($name, $email, $adminSubject, $adminBody, $userSubject, $use
     try {
         // SMTP Configuration
         $mail->isSMTP();
-        $mail->Host       = 'smtp.hostinger.com';
+        $mail->Host       = getenv('SMTP_HOST');
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'no-reply@donaldsbookpublishing.com';
-        $mail->Password   = 'Cybertron@2025+';
-        $mail->SMTPSecure = 'ssl';
-        $mail->Port       = 465;
+        $mail->Username   = getenv('SMTP_USER');
+        $mail->Password   = getenv('SMTP_PASS');
+        $mail->SMTPSecure = getenv('SMTP_SECURE');
+        $mail->Port       = getenv('SMTP_PORT');
 
-        $mail->setFrom('no-reply@donaldsbookpublishing.com', 'Donalds Book Publishing');
+        $mail->setFrom('marketing@donaldsbookpublishing.com', 'Donalds Book Publishing');
         $mail->isHTML(true);
 
         /* ================= ADMIN EMAIL ================= */
 
-        $mail->addAddress('no-reply@donaldsbookpublishing.com', 'Admin');
+        $mail->addAddress('marketing@donaldsbookpublishing.com', 'Admin');
+        // $mail->addAddress('hasansaeed2526@gmail.com', 'Admin');
 
         // 🔑 Reply goes to the user
         $mail->addReplyTo($email, $name);
@@ -129,6 +127,7 @@ function sendEmails($name, $email, $adminSubject, $adminBody, $userSubject, $use
         echo "Mailer Error: {$mail->ErrorInfo}";
     }
 }
+
 function bpsPage($payload, $con)
 {
     if (empty($payload['name']) || empty($payload['phone']) || empty($payload['email']) || empty($payload['message'])) {
@@ -790,7 +789,7 @@ function publishingJourney($payload, $con)
     }
 }
 
-function sendEmail($message, $subject = 'Lead from no-reply@hancockpublishers.com', $to = 'no-reply@donaldsbookpublishing.com', $fromName = 'Hancock Publishers')
+function sendEmail($message, $subject = 'Lead from no-reply@hancockpublishers.com', $to = 'marketing@donaldsbookpublishing.com', $fromName = 'Hancock Publishers')
 {
     // Set up additional headers
     $headers = "From: {$fromName} <no-reply@hancockpublishers.com>\r\n";
@@ -951,16 +950,25 @@ function sendEmail($message, $subject = 'Lead from no-reply@hancockpublishers.co
 // SEND SLACK
 function sendSlack($data)
 {
-    $connection2 = new mysqli("localhost", "u523339939_donald", "Cybertron@2026", "u523339939_donald");
-    $ch = curl_init();
-    // curl_setopt($ch, CURLOPT_URL, 'https://hooks.slack.com/services/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');
-    // curl_setopt($ch, CURLOPT_URL, 'https://hooks.slack.com/services/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');
-    curl_setopt($ch, CURLOPT_POST, 1);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, ['payload' => $data]);
+    $url = getenv('SLACK_WEBHOOK_URL');
+    $connection2 = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
+    
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Content-Type: application/json',
+        'Content-Length: ' . strlen($data)
+    ]);
+    
     $server_output = curl_exec($ch);
     curl_close($ch);
-    mysqli_query($connection2, "INSERT INTO slack(error,slack_payload) VALUES('$server_output','$data')") or die(mysqli_error($connection2));
+    
+    $escaped_output = $connection2->real_escape_string($server_output);
+    $escaped_data = $connection2->real_escape_string($data);
+    
+    mysqli_query($connection2, "INSERT INTO slack(error,slack_payload) VALUES('$escaped_output','$escaped_data')") or die(mysqli_error($connection2));
     return ($server_output);
 }
 

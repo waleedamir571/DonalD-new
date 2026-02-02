@@ -109,14 +109,14 @@
                 </h2>
             </div>
             <!-- btn form-btn -->
-            <form action="" method="POST">
-                <input type="hidden" name="route" value="/">
-                <input type="hidden" name="brand" value="nypublishers">
-                <input type="hidden" name="token"
+            <form action="backend/action/action.php" method="POST" class="cmxform">
+                <input type="hidden" name="type" value="formLong">
+                <!-- <input type="hidden" name="brand" value="nypublishers"> -->
+                <!-- <input type="hidden" name="token"
                     value="1147cabbfecc8c45a410a7b81aa36436aad34ed79fda5f77c790b0492d5f93b3">
                 <input type="hidden" name="tag" value="banner form">
                 <input type="hidden" name="price" value="null">
-                <input type="hidden" name="news" value="1">
+                <input type="hidden" name="news" value="1"> -->
                 <div class="form-div" style="margin:25px 0 0;">
                     <div class="col-lg">
                         <input
@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-lg">
 
-                        <select class="classic" name="Service">
+                        <select class="classic" name="service">
                             <optgroup label="&nbsp; Select Services">
                                 <option value="Book Writing " data-amt="16" data-deadline="1">Book Writing
                                 </option>
@@ -157,8 +157,6 @@
                     <div class="col-lg bnr-form-btn">
                         <!-- <input type="submit" class="btn form-btn" value="submit" /> -->
                         <input type="submit" name="submit" class="btn form-btn" value="Submit">
-
-
 
                     </div>
                 </div>
