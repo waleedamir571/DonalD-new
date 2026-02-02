@@ -151,17 +151,17 @@
                                         <a class="dropdown-item" href="book-publishing-services">
                                             <i class="fas fa-book-open"></i><span> Book Publishing </span>
                                         </a>
-                                        <a class="dropdown-item" href="book-printing">
+                                        <a class="dropdown-item" href="book-printing-services">
                                             <i class="fas fa-book-open"></i><span> Book Printing </span>
                                         </a>
-                                        <a class="dropdown-item" href="book-marketing">
+                                        <a class="dropdown-item" href="book-marketing-services">
                                             <i class="fas fa-book-open"></i><span> Book Marketing </span>
                                         </a>
-                                        <a class="dropdown-item" href="author-website">
+                                        <a class="dropdown-item" href="author-website-services">
                                             <i class="fas fa-book-open"></i><span> Author Website </span>
                                         </a>
 
-                                        <a class="dropdown-item" href="amazon-publishing">
+                                        <a class="dropdown-item" href="amazon-publishing-services">
                                             <i class="fas fa-book-open"></i><span> Amazon Publishing </span>
                                         </a>
                                         <a class="dropdown-item bdr-rem" href="children-book">

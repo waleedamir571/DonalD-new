@@ -156,14 +156,17 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="bnr-txt">
-                            <h4>Ensuring Worldwide Publication of your Stories on Amazon</h4>
-                            <h2>Reach Global Market with Personalized Amazon Book Publishing Services </h2>
-                            <p class="para-line">Your stories deserve to be read worldwide. But sometimes, traditional
-                                publishing houses can be a hurdle in achieving that dream. At NY Publishers, our amazon
-                                book publishing services can help you publish your book on Amazon, giving you access to
-                                a global audience.</p>
-                            <p class="para-line">Don’t let rejection hold you back from realizing your literary
-                                ambitions. Get in touch for worldwide outreach. </p>
+                            <h4>Publish Your Stories Worldwide on Amazon</h4>
+                            <h2>Reach a Global Audience with Personalized Amazon Book Publishing Services
+                            </h2>
+                            <p class="para-line">Your stories deserve to be read around the world. Traditional
+                                publishing can sometimes make that challenging—but at Donald’s Book Publishing, our
+                                Amazon book publishing services help you make your book available to a global audience
+                                quickly and efficiently.
+                            </p>
+                            <p class="para-line">Don’t let obstacles stop you from achieving your literary dreams.
+                                Contact us today and expand your reach worldwide.
+                            </p>
 
                         </div>
                         <div class="cta-btn btnres">
@@ -246,18 +249,19 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Move Your Story Fast with Amazon Publisher Services</h2>
+                <h2>Move Your Story Fast with Amazon Publishing Services</h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>We offer the most efficient and comprehensive amazon publisher services to authors and aspiring
-                        writers. At NY Publishers, we are committed to helping authors and publishers move their stories
-                        fast.  </p>
-                    <p>Our suite of Amazon book publisher services is designed to help authors at every stage of the
-                        publishing process. It covers a range of areas, including editing, design, marketing, and
-                        distribution, ensuring that your book is not only of the highest quality but also reaches a wide
-                        audience.</p>
+                    <p>We provide efficient and comprehensive Amazon publishing services for authors and aspiring
+                        writers. At Donald’s Book Publishing, we are dedicated to helping your book reach the world
+                        quickly, without compromising on quality.
+                         </p>
+                    <p>Our full suite of Amazon publishing services supports authors at every stage of the process,
+                        including editing, design, marketing, and distribution, ensuring your book is polished,
+                        professional, and widely accessible.
+                    </p>
                 </div>
-                <h2>Manuscript Editing and Proofreading </h2>
+                <!-- <h2>Manuscript Editing and Proofreading </h2>
                 <p>Our editing services are second to none. With a team of amazon book publishers and editing experts,
                     you can refine your manuscript, ensuring that it is error-free, engaging, well-structured, and ready
                     for publication. </p>
@@ -271,7 +275,7 @@
                     a range of services that can help your book stand out in a crowded marketplace. </p>
                 <h2>Distributions Competences </h2>
                 <p>We also offer distribution services, ensuring that your book is available for purchase on Amazon and
-                    other major online retailers, reaching readers around the world.</p>
+                    other major online retailers, reaching readers around the world.</p> -->
                 <br>
                 <div class="cta-btn">
 
@@ -299,9 +303,10 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Our Amazing Process That Drives Inspiring Outcomes</h2>
-                    <p>We are honored to provide you top-notch quality content to make sure that your trust is
-                        gained for a lifetime.</p>
+                    <h2>Our Amazing Process That Drives Inspiring Outcomes
+                    </h2>
+                    <p>We are proud to provide top-quality content, ensuring your trust and satisfaction for a lifetime.
+                    </p>
 
                 </div>
             </div>
@@ -311,8 +316,10 @@
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt">
                             <h3>Publishing Experts </h3>
-                            <p class="list-scroll">Our team of publishing experts is well-versed in all platforms,
-                                including Amazon, and can ensure exceptional quality for your book, no matter the genre.
+                            <p class="list-scroll"> Our team of publishing specialists is experienced across all
+                                platforms, including Amazon, and guarantees exceptional quality for your book, no matter
+                                the genre.
+
                             </p>
 
                         </div>
@@ -323,8 +330,9 @@
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
                             <h3>Personalized Feedback </h3>
-                            <p class="list-scroll">Submit your draft and instructions, and we’ll provide personalized
-                                Feedback to meet your expectations and improve your work.</p>
+                            <p class="list-scroll">Submit your draft along with instructions, and we’ll provide
+                                personalized feedback to meet your expectations and enhance your work.
+                            </p>
 
                         </div>
                     </div>
@@ -334,10 +342,10 @@
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
                             <h3>Tailored Service </h3>
-                            <p class="list-scroll">We’ll assign an experienced agent to your project, considering your
-                                needs and developing a customized plan to publish your book on time. We’re committed to
-                                delivering excellent work and punctuality, which you won’t find with any cheap
-                                publishing services. </p>
+                            <p class="list-scroll">We assign a dedicated agent to your project, taking your needs into
+                                account and developing a customized plan to publish your book on time. We are committed
+                                to delivering excellence at every stage.
+                            </p>
 
                         </div>
                     </div>
@@ -362,16 +370,16 @@
             </div>
             <div class="col-12 col-lg-8">
                 <div class="award-winning-wrap">
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/axiom.webp"
-                            class="img-fluid" alt="axiom"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/axiom.webp" class="img-fluid"
+                            alt="axiom"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/gold.webp" class="img-fluid"
                             alt="gold"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/finalist.webp"
                             class="img-fluid" alt="finalist"></div>
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/global.webp"
-                            class="img-fluid" alt="global"></div>
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/illum.webp"
-                            class="img-fluid" alt="illum"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/global.webp" class="img-fluid"
+                            alt="global"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/illum.webp" class="img-fluid"
+                            alt="illum"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/moon.webp" class="img-fluid"
                             alt="moon"></div>
                 </div>
@@ -388,143 +396,7 @@
 
 <!-- samples -->
 <!-- samples -->
-<section id="sample">
-    <div class="container">
-        <div class="row">
-            <div class="container">
-                <div class="col-md-12">
-                    <div class="sample-txt">
-                        <h2><b>Work –We Are Proud to Showcase </b></h2>
-                        <p>Our amazon publishing company is proud to share our story of success. Our clients are from
-                            all over the USA and beyond. Here are some of the projects that reveal our commitment to our
-                            projects. </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- portfolio -->
-        <div class="sample-tab">
-            <div align="center">
-
-            </div>
-            <br>
-
-            <div id="tab1" class="tab-pane active show">
-                <div class="book-covers">
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Stolen-Voices-Missing-Murdered-County-ebook/dp/B0CTL3KZD6/ref=sr_1_3?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.Z33eiuOFqADdEyCOit8vIKP2T7VzzVB2JiN-_uAiz_LPkQtZK8dd67T9w__WPpTMdn2NRDjwTMjT6F9KF1dE-8JtP_Fqt65O3x3Lbccx3BLYCJiBYMTFG0BZF6P80qGHxM2h-0e_PwUti62upVbIVOgE5uxauhsUjWhOatMHgyH_KDO6vT9OJ5JGElpsvlipFP2WcZ64y8RGabn-4KhBDuzMyNES0eGKOanJXDLq158.WSm10dJprDk9u9uZLkx3xFiGENykk8HnnhevRiuqK94&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737583866&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-3"
-                                target="_blank"><img class="" src="assets/images/final/1.jpg"></a>
-                        </div>
-                    </div>
-
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Weather-Man-Overcoming-managing-storms/dp/1966642091/ref=sr_1_4?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.Z33eiuOFqADdEyCOit8vIKP2T7VzzVB2JiN-_uAiz_LPkQtZK8dd67T9w__WPpTMdn2NRDjwTMjT6F9KF1dE-8JtP_Fqt65O3x3Lbccx3BLYCJiBYMTFG0BZF6P80qGHxM2h-0e_PwUti62upVbIVOgE5uxauhsUjWhOatMHgyH_KDO6vT9OJ5JGElpsvlipFP2WcZ64y8RGabn-4KhBDuzMyNES0eGKOanJXDLq158.WSm10dJprDk9u9uZLkx3xFiGENykk8HnnhevRiuqK94&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737583892&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-4"
-                                target="_blank"><img class="" src="assets/images/final/2.jpg"></a>
-                            <div class="badge rounded bg-body color-blue"></div>
-                        </div>
-                    </div>
-
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/I-BELONG-Jami-Swenson/dp/1964365139/ref=sr_1_18?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.ykSXTIssCK9S8hE9WoPDIXAxJgnHiSM-72im_WDnRCafBGBiK7Iipw_9_piZ1x1lCqO_dVA4p7rm-SZkUDtn7BgMaQk7wOXo-x54Txnxc3xbknHIooO6bveUQNb36oFTOBawPXUTgnIGmb1QAuhS3TsxasZodHB7P0vTSS9Aan-9jjr0GN8eDcQ3eJi2146f2D73zqu1vDONfZ7l2ki_bJu8vbtni-LV_0VZJL3xWYg.VNV2cSRHfcEVaTBJMVH16a3NQoBDrEEG_vJ8bTjVR8k&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737583934&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-18&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/3.jpg"></a>
-                            <div class="badge rounded bg-body color-blue"></div>
-                        </div>
-                    </div>
-
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Trinity-Infinity-Divinity-David-Courtney/dp/1966642105/ref=sr_1_24?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.ykSXTIssCK9S8hE9WoPDIXAxJgnHiSM-72im_WDnRCafBGBiK7Iipw_9_piZ1x1lCqO_dVA4p7rm-SZkUDtn7BgMaQk7wOXo-x54Txnxc3xbknHIooO6bveUQNb36oFTOBawPXUTgnIGmb1QAuhS3TsxasZodHB7P0vTSS9Aan-9jjr0GN8eDcQ3eJi2146f2D73zqu1vDONfZ7l2ki_bJu8vbtni-LV_0VZJL3xWYg.VNV2cSRHfcEVaTBJMVH16a3NQoBDrEEG_vJ8bTjVR8k&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584029&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-24&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/4.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Private-Relationship-Van-Cliburn-fascinating/dp/1964030552/ref=sr_1_26?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.ykSXTIssCK9S8hE9WoPDIXAxJgnHiSM-72im_WDnRCafBGBiK7Iipw_9_piZ1x1lCqO_dVA4p7rm-SZkUDtn7BgMaQk7wOXo-x54Txnxc3xbknHIooO6bveUQNb36oFTOBawPXUTgnIGmb1QAuhS3TsxasZodHB7P0vTSS9Aan-9jjr0GN8eDcQ3eJi2146f2D73zqu1vDONfZ7l2ki_bJu8vbtni-LV_0VZJL3xWYg.VNV2cSRHfcEVaTBJMVH16a3NQoBDrEEG_vJ8bTjVR8k&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584029&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-26&amp;xpid=mJUvuLXvqRTQm"
-                                taget="_blank"><img class="" src="assets/images/final/5.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/YOU-ARE-NOT-ALONE-Journey/dp/1964365031/ref=sr_1_29?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.ykSXTIssCK9S8hE9WoPDIXAxJgnHiSM-72im_WDnRCafBGBiK7Iipw_9_piZ1x1lCqO_dVA4p7rm-SZkUDtn7BgMaQk7wOXo-x54Txnxc3xbknHIooO6bveUQNb36oFTOBawPXUTgnIGmb1QAuhS3TsxasZodHB7P0vTSS9Aan-9jjr0GN8eDcQ3eJi2146f2D73zqu1vDONfZ7l2ki_bJu8vbtni-LV_0VZJL3xWYg.VNV2cSRHfcEVaTBJMVH16a3NQoBDrEEG_vJ8bTjVR8k&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584029&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-29&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/6.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Inheritable-Luminosity-Chelsey-R-Embry-ebook/dp/B0DKRBSRKM/ref=sr_1_31?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.ykSXTIssCK9S8hE9WoPDIXAxJgnHiSM-72im_WDnRCafBGBiK7Iipw_9_piZ1x1lCqO_dVA4p7rm-SZkUDtn7BgMaQk7wOXo-x54Txnxc3xbknHIooO6bveUQNb36oFTOBawPXUTgnIGmb1QAuhS3TsxasZodHB7P0vTSS9Aan-9jjr0GN8eDcQ3eJi2146f2D73zqu1vDONfZ7l2ki_bJu8vbtni-LV_0VZJL3xWYg.VNV2cSRHfcEVaTBJMVH16a3NQoBDrEEG_vJ8bTjVR8k&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584029&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-31&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/7.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Silent-Paralyzer-decade-life-disrupted-ebook/dp/B0CVJQ99P9/ref=sr_1_32?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.ykSXTIssCK9S8hE9WoPDIXAxJgnHiSM-72im_WDnRCafBGBiK7Iipw_9_piZ1x1lCqO_dVA4p7rm-SZkUDtn7BgMaQk7wOXo-x54Txnxc3xbknHIooO6bveUQNb36oFTOBawPXUTgnIGmb1QAuhS3TsxasZodHB7P0vTSS9Aan-9jjr0GN8eDcQ3eJi2146f2D73zqu1vDONfZ7l2ki_bJu8vbtni-LV_0VZJL3xWYg.VNV2cSRHfcEVaTBJMVH16a3NQoBDrEEG_vJ8bTjVR8k&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584029&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-32&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/8.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Black-Beautiful-Side-Us/dp/1964365368/ref=sr_1_33?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.dkwkmCcMrJQy84N_2jxJD7FXFaiB38Y0VTo980LFEzpaG3Y9qu8HEZ7K4zFVTpMblz5cYttxJKVP8iUN7rH350a0V79FeyxlPpbS5i6988SrS8BmsXY0suB9p0UmPwosCOIolNVZTbeI6cOeOrkWnNO7ZsrEEIyhA4aQRN3FYVyaIDeLpvsr7X5FFfI157Mvksy4zM59HprbwXJ-fCqDKG9zYy_ahnozd5QP05VDrX8.-elS83kkkMTrd40iV_lCmOVvAjHzl6QgqGIonCE6OLU&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584229&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-33&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/9.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Filing-Insurance-Claim-Logan-Dory/dp/1964030390/ref=sr_1_58?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9._mWcQwHBDDoBs8bYpo_p8M37PsFcWgB5VaY3_fZjxe6CKbglPNMSV86YWsNaRSg6QolIPEsOQaXaTF3Zaryz4PLZtDl8jovAMoKNGXCCo_elbKTCma_cehq3o6yzsfsvT0vk8wA9UEIgjjK7-H-U89AfvACuLLEKi6r463GHFhuw1HQVB8y4KjTFAGCEU_3raZr_O8MPcH9zLIe4NNNStnNYpGCv7MbdvKdQV_OOjaQ.EFxRGY7gzNiooEHtS1T1AhUOXygt6XyQBYUIjVzUvo8&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584384&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-58&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/10.jpg"></a>
-                        </div>
-                    </div>
-
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/DARK-ALLEY-Sandra-Littlefield-ebook/dp/B0CSV8VGWR/ref=sr_1_61?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9._mWcQwHBDDoBs8bYpo_p8M37PsFcWgB5VaY3_fZjxe6CKbglPNMSV86YWsNaRSg6QolIPEsOQaXaTF3Zaryz4PLZtDl8jovAMoKNGXCCo_elbKTCma_cehq3o6yzsfsvT0vk8wA9UEIgjjK7-H-U89AfvACuLLEKi6r463GHFhuw1HQVB8y4KjTFAGCEU_3raZr_O8MPcH9zLIe4NNNStnNYpGCv7MbdvKdQV_OOjaQ.EFxRGY7gzNiooEHtS1T1AhUOXygt6XyQBYUIjVzUvo8&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584384&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-61&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/11.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/ANGUS-HERO-Pollinators-Stories-Tessier-ebook/dp/B0CRK73LLG/ref=sr_1_62?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9._mWcQwHBDDoBs8bYpo_p8M37PsFcWgB5VaY3_fZjxe6CKbglPNMSV86YWsNaRSg6QolIPEsOQaXaTF3Zaryz4PLZtDl8jovAMoKNGXCCo_elbKTCma_cehq3o6yzsfsvT0vk8wA9UEIgjjK7-H-U89AfvACuLLEKi6r463GHFhuw1HQVB8y4KjTFAGCEU_3raZr_O8MPcH9zLIe4NNNStnNYpGCv7MbdvKdQV_OOjaQ.EFxRGY7gzNiooEHtS1T1AhUOXygt6XyQBYUIjVzUvo8&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584384&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-62&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/12.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Moody-Toody-Rosedale-Where-Whales-ebook/dp/B0CS4YXBT5/ref=sr_1_63?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9._mWcQwHBDDoBs8bYpo_p8M37PsFcWgB5VaY3_fZjxe6CKbglPNMSV86YWsNaRSg6QolIPEsOQaXaTF3Zaryz4PLZtDl8jovAMoKNGXCCo_elbKTCma_cehq3o6yzsfsvT0vk8wA9UEIgjjK7-H-U89AfvACuLLEKi6r463GHFhuw1HQVB8y4KjTFAGCEU_3raZr_O8MPcH9zLIe4NNNStnNYpGCv7MbdvKdQV_OOjaQ.EFxRGY7gzNiooEHtS1T1AhUOXygt6XyQBYUIjVzUvo8&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584384&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-63&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/13.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Shadows-Doubt-Ecstasy-Matthew-Green-ebook/dp/B0CQWPDXCM/ref=sr_1_64?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9._mWcQwHBDDoBs8bYpo_p8M37PsFcWgB5VaY3_fZjxe6CKbglPNMSV86YWsNaRSg6QolIPEsOQaXaTF3Zaryz4PLZtDl8jovAMoKNGXCCo_elbKTCma_cehq3o6yzsfsvT0vk8wA9UEIgjjK7-H-U89AfvACuLLEKi6r463GHFhuw1HQVB8y4KjTFAGCEU_3raZr_O8MPcH9zLIe4NNNStnNYpGCv7MbdvKdQV_OOjaQ.EFxRGY7gzNiooEHtS1T1AhUOXygt6XyQBYUIjVzUvo8&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584384&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-64&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/14.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Roriks-Embrace-Interstellar-Alliance-Book-ebook/dp/B0DCKF5H23/ref=sr_1_65?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.6e4DX15XAGetXRQFCww1cxzZvvTB5_X3KC9HbVgZHbtB0vNJGsOSU9fBudGtRUNb0u5YR6u3xxzTF6Lkthw3QtHDTicuJ0OJQ_-O0dyP7__tenTHLl7edlv9g3T2GZVxtfcViSScMY1kmgQURbcD3EOik2ZaEbTpdgOltavRTX7JpADOkLViZlvcfjOfjCp91ySidF782dI5m28quuVf-q1ZcxXBgBl3alPhjnvbwQE.0XBkjKjY_iWw5Tlhzz2P7X153k9his7I6U-xQdfuweI&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584551&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-65&amp;xpid=mJUvuLXvqRTQm"
-                                target="_blank"><img class="" src="assets/images/final/15.jpg"></a>
-                        </div>
-                    </div>
-                    <div class="body-content">
-                        <div class="cover">
-                            <a href="https://www.amazon.com/Shipwrecked-Soul-My-Journey-Recovery-ebook/dp/B0CV2WFPBD/ref=sr_1_66?crid=3HISYG1QFS6&amp;dib=eyJ2IjoiMSJ9.6e4DX15XAGetXRQFCww1cxzZvvTB5_X3KC9HbVgZHbtB0vNJGsOSU9fBudGtRUNb0u5YR6u3xxzTF6Lkthw3QtHDTicuJ0OJQ_-O0dyP7__tenTHLl7edlv9g3T2GZVxtfcViSScMY1kmgQURbcD3EOik2ZaEbTpdgOltavRTX7JpADOkLViZlvcfjOfjCp91ySidF782dI5m28quuVf-q1ZcxXBgBl3alPhjnvbwQE.0XBkjKjY_iWw5Tlhzz2P7X153k9his7I6U-xQdfuweI&amp;dib_tag=se&amp;keywords=ny+publishers&amp;qid=1737584569&amp;sprefix=ny+publisher%2Caps%2C326&amp;sr=8-66&amp;xpid=mJUvuLXvqRTQm"
-                                target=""><img class="" src="assets/images/final/16.jpg"></a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <!-- portfolio -->
-        </div>
-    </div>
-    </div>
-
-</section>
-
+<?php include 'partials/slider.php'; ?>
 <!-- creative-ser -->
 <section id="creative-tab2" class="">
     <div class="container">
@@ -609,9 +481,9 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
                             <h3 class="h2Heading">Submission of Manuscript and Requirements </h3>
-                            <p class="font-14">Send your manuscript and requirements to our agency for book publication,
-                                along with any other instructions. Our team will review it and share the instant quote
-                                to get the project started. </p>
+                            <p class="font-14">Send your manuscript and any specific requirements to our agency for book
+                                publication, along with any additional instructions. Our team will review everything and
+                                provide an instant quote to kickstart your project. </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
@@ -633,9 +505,9 @@
                             style="margin-left: -40px;">
                             <h3 class="h2Heading">Development of a Customized Plan </h3>
                             <p class="font-14">
-                                Based on your needs, our experts will develop a tailored plan for publishing your book
-                                on Amazon. Whether you need the best marketing strategy for amazon or designing
-                                expertise for a book cover, our company will deliver you everything best.
+                                Based on your requirements, our experts will create a tailored plan to publish your book
+                                on Amazon. Whether you need top-tier marketing strategies or professional book cover
+                                design, our team delivers the very best in every aspect.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -655,8 +527,9 @@
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
                             <h3 class="h2Heading">Editing, Designing, and Formatting </h3>
                             <p class="font-14">
-                                Our professionals will take care of editing, designing, formatting, and creating a book
-                                cover to ensure your book is ready for publication.
+                                Our experts handle editing, designing, formatting, and creating a professional book
+                                cover to ensure your manuscript is fully ready for publication.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -677,11 +550,13 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Publication and Marketing </h3>
+                            <h3 class="h2Heading">Publication and Marketing
+                            </h3>
                             <p class="font-14">
-                                We’ll publish your book on Amazon, and our top marketing experts will help promote it to
-                                reach a broader audience. With us, you don’t have to worry about the cost to self
-                                publish on amazon, as we provide multiple bundles and affordable packages.
+                                We’ll publish your book on Amazon, and our expert marketing team will promote it to
+                                reach a wider audience. With us, you don’t need to worry about self-publishing costs, as
+                                we offer multiple bundles and affordable packages.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>

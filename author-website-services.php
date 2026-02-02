@@ -1,6 +1,13 @@
 <?php include 'partials/header.php'; ?>
 
+
 <style>
+    @media only screen and (max-width: 769px) and (min-width: 0px) {
+        .banneroad01-au {
+            height: 130vh !important;
+        }
+    }
+
     .form-banner {
         border-radius: 38px;
         padding: 3rem;
@@ -30,7 +37,7 @@
         font-weight: 600;
         text-shadow: 1px 0 0 #000;
         font-size: 45px;
-        text-transform: capitalize;
+        text-transform capitalize;
     }
 
     .font-14 {
@@ -138,35 +145,29 @@
         overflow: hidden;
     }
 </style>
-<!-- header-end -->
-
-<!-- banner-start -->
-<section class="banneroad01bms home_banner">
+<!-- header-end --> <!-- banner-start -->
+<section class="banneroad01-au">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-6">
                         <div class="bnr-txt btn-tx-cp">
-                            <h4>Making your Words Available everywhere</h4>
-                            <h2>Book Marketing Services –Taking the Market by Leaps and Bounds </h2>
-                            <p class="para-line">We know that completing a manuscript is only the beginning of the road
-                                to fame and fortune. This is why we provide a full menu of promotional options designed
-                                to increase your book’s exposure and enable you to get in front of your intended
-                                audience. So, take advantage of New York publishers’ end-to-end book marketing strategy
-                                and get your work read by a global audience! </p>
-
+                            <!--<h4>Hassle-Free, Quick, and Affordable</h4>-->
+                            <h2>Personalized Author Website Design Services
+                            </h2>
+                            <p class="para-line">
+                                Transform your online presence and let your readers engage with your work with the best
+                                author website services.
+                            </p>
+                            <p class="para-line">Start your digital journey today with our affordable packages and
+                                discounted bundles, tailored to help authors showcase their work effectively.
+                            </p>
                         </div>
                         <div class="cta-btn btnres">
-
                             <a href="javascript:;" class="btn btnres1 popupBtn">Get A Quote</a>
-
-                            <a href="javascript:;" onclick="setButtonURL();" class="btn btnres2">Talk to a
-                                Consultant</a>
-
-
+                            <a href="javascript:;" onclick="setButtonURL();" class="btn btnres2">Talk to an Expert </a>
                         </div>
-
                     </div>
                     <?php include 'partials/form.php'; ?>
                 </div>
@@ -175,7 +176,6 @@
     </div>
 </section>
 <!-- banner-end -->
-
 <div class="bottomSec">
     <div class="container">
         <div class="row">
@@ -227,60 +227,63 @@
         </div>
     </div>
 </div>
-
 <!-- form-sec -->
 <!-- form-sec -->
-
 <!-- form-sec -->
 <!-- form-sec -->
-
 <!-- landing-page-inner -->
 <section id="lp-writing">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Exclusive Book Promotion Services with Bullseye Plans </h2>
+                <h2>Brewing Creativity: A Blend of Passion, Business, and Art
+                </h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>Here at NY Publishers, we know that each work is different and requires its own special approach
-                        to promotion. Thus, we take time to learn about your book’s assets, weaknesses, and intended
-                        audience as part of our book promotion services. Informed by this research, we craft a
-                        comprehensive strategy that employs both classic and cutting-edge channels to give your work the
-                        widest possible audience. Book evaluations, social media campaigns, email marketing, author
-                        interviews, and more are all possible components of the individualized plans we create for our
-                        clients.</p>
-                    <p>In order to get your book in front of the right eye at the right moment, our marketing experts
-                        will work closely with you to create a unique plan of action.</p>
+                    <p>
+                        At Donald’s Book Publishing, we’re more than partners—we’re a team driven by creativity,
+                        collaboration, and a shared love for artisanal coffee. Our journey began with the realization
+                        that together, we could achieve far more than alone.
+                        <br>
+                    <p>
+                        With a strong background in visual arts, our author website designers bring a unique perspective
+                        to every project. From mystery writers to comic book creators and historical storytellers, we
+                        craft websites that reflect each author’s distinct personality.
+
+                    </p>
+                    <p>With a strong background in visual arts, our author website designers bring a unique perspective
+                        to every project. From mystery writers to comic book creators and historical storytellers, we
+                        craft websites that reflect each author’s distinct personality.
+
+                    </p>
+
                 </div>
                 <br>
                 <div class="cta-btn">
-
                     <a href="javascript:;" class="btn popupBtn">Get A Quote</a>
-
                     <a href="javascript:;" onclick="setButtonURL();" class="btn liveChat">Live Chat</a>
-
-
                 </div>
-
-
             </div>
             <div class=" col-md-6 inner-tx-p">
                 <div class="inner-img-lp">
-                    <img class="img-sec7" src="nypublishers/assets/images/bookmarketing.png">
+                    <img class="img-sec4" src="assets/images/tab_mob.png">
                 </div>
             </div>
         </div>
     </div>
     </div>
-
 </section>
 <section id="writing-ser">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Book Advertising Approach that is Hard to Miss</h2>
-
+                    <h4>Reach Global Audience</h4>
+                    <h2>Dedicated Website Designs for Authors and Aspiring Writers </h2>
+                    <p>Our amazing process helps you drive inspiring outcomes. Explore our website designs for authors.
+                        Our services are customized and designed for all types of authors and book writers. Here’s our
+                        approach, which is original in its own right. </p>
+                    <!--<h6>Here are six unique ways AWA will provide the very best book illustrations for any of your book requirements</h6>-->
                 </div>
             </div>
             <div class="col-md-12 write-main-div">
@@ -288,12 +291,13 @@
                     <div class="ser-box ser1">
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt">
-                            <h3>Together through Thick and Thins </h3>
-                            <p class="text-center">With years of practice in the publishing industry, NY Publishers has
-                                garnered expertise and knowledge to help you navigate the complex world of offline and
-                                online book marketing. <br> Our marketing professionals stay relevant with latest trends
-                                and best practices to ensure that your book receives the attention it deserves.</p>
-
+                            <h3>Keep Your Readers in Sight
+                            </h3>
+                            <p class="text-center list-scroll">
+                                A poorly designed website could be costing you book sales. We help you keep your readers
+                                engaged through your writing without being overlooked due to a lackluster online
+                                presence.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -301,12 +305,15 @@
                     <div class="ser-box ser4">
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
-                            <h3>Personalized Attention to Your Needs</h3>
-                            <p>Our team of marketing experts takes the time to get to know you and your book, and we
-                                work with you every step of the way to develop a customized marketing plan that meets
-                                your specific needs. We also offer customized packages and affordable bundles in
-                                different seasons. Keep in touch with us. </p>
+                            <h3>Energize Your Writing
+                            </h3>
+                            <p class="list-scroll">
+                                Your writing deserves to be seen. We ensure your online presence is as engaging and
+                                captivating as your work. We focus on boosting your book sales through effective
+                                copywriting and presentation.
 
+
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -314,27 +321,22 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Open Communication and Collaboration</h3>
-                            <p>At NY Publishers, we believe that open communication and collaboration are key to a
-                                successful book marketing campaign. <br>We keep you informed throughout the process,
-                                providing regular updates on the progress of your marketing campaign, unlike other book
-                                marketing companies. We remain in close contact, so you can request adjustments as
-                                needed. Our goal is to ensure that you feel confident and in control every step of the
-                                way.</p>
-
+                            <h3>Go Big, Go Global
+                            </h3>
+                            <p class="list-scroll">
+                                We believe once you’re visible, you’re remembered. Don’t miss the chance to attract
+                                publishers, promoters, and media scouts—invest in a professional website today.
+                            </p>
                         </div>
                     </div>
                 </div>
 
             </div>
-
         </div>
     </div>
 </section>
 <!-- landing-page-inner -->
 <!-- cta-1 -->
-
-
 <section id="cta-sec">
 
     <div class="container">
@@ -364,14 +366,12 @@
 
 
 
-</section>
-<!-- cta-1 -->
+</section> <!-- cta-1 -->
 
 
 <!-- samples -->
 <!-- samples -->
-<?php include 'partials/slider.php'; ?>  
-
+<?php include 'partials/slider.php'; ?>
 <!-- creative-ser -->
 <!-- <section id="creative-tab2" class="">
         <div class="container">
@@ -385,30 +385,26 @@
             </div>
             <div class="row faq-tab-div2"> -->
 <!-- Nav tabs -->
-
-<!-- <div class="col-md-6">
+<!-- 
+                <div class="col-md-6">
                     <div id="crtab2-1" class="tabcontent2" style="display: block;">
                         <div class="ctr-tavb-img">
-                            <img class="img-fluid"
-                                src="nypublishers/assets/images/publishing/1.png">
+                            <img class="img-fluid " src="nypublishers/assets/images/p-1.png">
                         </div>
                     </div>
                     <div id="crtab2-2" class="tabcontent2" style="display: none;">
                         <div class="ctr-tavb-img">
-                            <img class="img-fluid"
-                                src="nypublishers/assets/images/publishing/2.png">
+                            <img class="img-fluid " src="nypublishers/assets/images/p-2.png">
                         </div>
                     </div>
                     <div id="crtab2-3" class="tabcontent2" style="display: none;">
                         <div class="ctr-tavb-img">
-                            <img class="img-fluid"
-                                src="nypublishers/assets/images/publishing/3.png">
+                            <img class="img-fluid " src="nypublishers/assets/images/p-3.png">
                         </div>
                     </div>
                     <div id="crtab2-4" class="tabcontent2" style="display: none;">
                         <div class="ctr-tavb-img">
-                            <img class="img-fluid"
-                                src="nypublishers/assets/images/publishing/4.png">
+                            <img class="img-fluid " src="nypublishers/assets/images/p-4.png">
                         </div>
                     </div>
                 </div> -->
@@ -420,32 +416,30 @@
                             <button class="tablinks2 btn-one-cr active" data-toggle="modal" data-target="#Mymodal"
                                 onclick="openCity2(event, 'crtab2-1')" id="defaultOpen2">
                                 <div class="tab-txt-2 tab-txt-img1">
-                                    <h3>Submission of the draft</h3>
-                                    <p>When you submit a primary draft along with the instructions needed to be catered
-                                        about the project, we try to meet your expectations and suggest the room for
-                                        improvement.</p>
+                                    <h3>Extensive Research along with outlining of the draft</h3>
+                                    <p>We look forward to comprehending and understand your requirements to come up with
+                                        a well-written plot after extensive Research</p>
                                 </div>
                             </button>
                             <button class="tablinks2" onclick="openCity2(event, 'crtab2-2')">
                                 <div class="tab-txt-2 tab-txt-img2">
-                                    <h3>Rigorous Proofreading and Editing</h3>
-                                    <p>Committed proofreaders are assigned whose job is to your manuscripts meticulously
-                                        and remove minute errors to come up with a polished draft.</p>
+                                    <h3>Authentic Content Writing</h3>
+                                    <p>After you are done approving our extensively researched outline, our storytellers
+                                        will immediately start writing your first draft involving your idea.</p>
                                 </div>
                             </button>
                             <button class="tablinks2" onclick="openCity2(event, 'crtab2-3')">
                                 <div class="tab-txt-2 tab-txt-img3">
-                                    <h3>Finely tuning each and every sentence</h3>
-                                    <p>The obsession to hunt and correct your tinniest possible mistakes is built-in our
-                                        multitalented proofreaders. To provide a full 100% assurance.</p>
+                                    <h3>Evaluative review, Editing, and Proofreading</h3>
+                                    <p>We keep performing multiple iterations on the editing of the drafts for the
+                                        betterment of our writing process.</p>
                                 </div>
                             </button>
                             <button class="tablinks2" onclick="openCity2(event, 'crtab2-4')">
                                 <div class="tab-txt-2 tab-txt-img4">
-                                    <h3>Software Scanning and Rectification</h3>
-                                    <p>Our proofreaders put a lot of hardworking in perfecting your unedited
-                                        manuscripts. However, we still run them on eponymous softwares like Grammarly,
-                                        White smoke, and Copyscape for flawless results.</p>
+                                    <h3>Substantial formatting, Designing, and Typesetting</h3>
+                                    <p>When the first manuscript is completed along with proofreading and accepted by
+                                        you, we then look forward to formatting it quite extensively.</p>
                                 </div>
                             </button>
                         </div>
@@ -460,7 +454,9 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="creative-txt">
-                    <h2 class="text-center">Our 4-Step Book Marketing Services Process</h2>
+                    <h2 class="text-center">Our Innovative Process</h2>
+                    <p>With our 4-step formula, you can showcase your books, share your story, and create a platform
+                        that reflects your unique standings in the USA and beyond! </p>
 
                 </div>
             </div>
@@ -537,17 +533,16 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Initial Consultation</h3>
-                            <p class="font-14">We begin our project by getting to know you and your book, learning about
-                                your goals and objectives for your marketing campaign.</p>
-                            <p class="font-14"> We’ll also discuss your target audience and any previous marketing
-                                efforts you’ve undertaken. This is what you will never find with any cheap service
-                                providers. </p>
+                            <h3 class="h2Heading">Consultation</h3>
+                            <p class="font-14">We begin with a consultation to learn about your needs and goals for your
+                                website. Once we’ve gathered all the essential information, we move forward with
+                                building your author website
+                            </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/publishing/steps3.png"
-                                alt="professional writer service" class="border-radius-20 img-non-fliud">
+                            <img src="nypublishers/assets/images/1111.png" alt="professional writer service"
+                                class="border-radius-20 img-non-fliud">
                         </div>
                     </div>
                 </div>
@@ -562,19 +557,17 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Customized Marketing Plan</h3>
+                            <h3 class="h2Heading">Design and Development</h3>
                             <p class="font-14">
-                                Based on our initial consultation, we’ll develop a customized marketing plan that meets
-                                your specific needs.
+                                Our team of top experts will design and develop a custom website that boosts your book
+                                sales while avoiding low-quality or gimmicky marketing tactics.
                             </p>
-                            <p class="font-14">This plan may include a mix of traditional and digital marketing
-                                techniques tailored to your book’s unique strengths and weaknesses. </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div style="width:100%;"
                             class="order-1 order-md-1 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/publishing/steps2.webp"
-                                alt="professional writer service" class="border-radius-20 img-non-fliud-left">
+                            <img src="nypublishers/assets/images/2222.png" alt="professional writer service"
+                                class="border-radius-20 img-non-fliud-left">
                         </div>
                     </div>
                 </div>
@@ -585,18 +578,16 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Implementation</h3>
+                            <h3 class="h2Heading">Content Creation</h3>
                             <p class="font-14">
-                                Once you’ve approved our suggested self publish book marketing plan, we’ll begin
-                                implementing it.
+                                We maintain close communication with you to craft engaging content that highlights your
+                                books and writing while helping you expand your audience.
                             </p>
-                            <p class="font-14">Our team of marketing experts will execute the plan, keeping you informed
-                                every step of the way.</p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/publishing/steps1.jpg"
-                                alt="professional writer service" class="border-radius-20 img-non-fliud">
+                            <img src="nypublishers/assets/images/3333.png" alt="professional writer service"
+                                class="border-radius-20 img-non-fliud">
                         </div>
                     </div>
                 </div>
@@ -611,19 +602,17 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Monitoring and Adjustment</h3>
+                            <h3 class="h2Heading">Launch and Maintenance</h3>
                             <p class="font-14">
-                                We continuously monitor the performance of your marketing book online campaigns, making
-                                adjustments as needed to ensure the maximum effectiveness of our strategic book
-                                advertisements.
+                                Once your website is ready, we’ll launch it and provide ongoing maintenance and support
+                                to keep it running smoothly, attracting the right readers and opportunities
+
                             </p>
-                            <p class="font-14">We’ll provide regular updates on the progress of your campaign, so you
-                                always know how it’s performing. </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-1 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/publishing/steps4.jpg"
-                                alt="professional writer service" class="border-radius-20 img-non-fliud-left">
+                            <img src="nypublishers/assets/images/4444.png" alt="professional writer service"
+                                class="border-radius-20 img-non-fliud-left">
                         </div>
                     </div>
                 </div>
@@ -632,8 +621,7 @@
     </div>
 </section>
 <!-- creative-ser -->
-
-
+<!-- contact-form -->
 
 
 <!--main-footer -->

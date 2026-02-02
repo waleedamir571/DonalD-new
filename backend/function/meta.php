@@ -219,6 +219,25 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;
+      case "book-marketing-services.php";
+    $title_name = " Donald’s Book Publishing | Children’s Book Marketing Services";
+    $description = "Promote your children’s book with Donald’s Book Publishing—strategic marketing to reach readers, boost sales, and grow your audience.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+    case "author-website-services.php";
+    $title_name = " Donald’s Book Publishing | Author Website Services";
+    $description = "Create a professional author website with Donald’s Book Publishing—showcase your books, connect with readers, and grow your author brand.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+
+     case "amazon-publishing-services.php";
+    $title_name = " Donald’s Book Publishing | Amazon Publishing Services";
+    $description = "Publish your children’s book on Amazon with Donald’s Book Publishing—expert guidance from formatting to launch for maximum reach.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
 
 
 
