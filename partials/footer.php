@@ -7,8 +7,8 @@
                     <p>Fill out the below details, and we will get back to you.</p>
                 </div>
                 <div class="contact-box col-md-8">
-                    <form class="cmxform" action="" method="POST">
-                        <input type="hidden" name="route" value="/">
+                    <form class="cmxform" action="backend/action/action.php" method="POST">
+                        <input type="hidden" name="type" value="formLong">
                         <input type="hidden" name="brand" value="nypublishers">
                         <input type="hidden" name="token"
                             value="1147cabbfecc8c45a410a7b81aa36436aad34ed79fda5f77c790b0492d5f93b3">
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="col-md-12 p0">
-                                    <select class="classic" name="Service">
+                                    <select class="classic" name="service">
                                         <optgroup label="&nbsp; Select Services">
                                             <option value="Book Writing " data-amt="16" data-deadline="1">Book
                                                 Writing
@@ -61,7 +61,7 @@
                                         class="form-control" type="number" required placeholder="Phone Number">
                                 </div>
                                 <div class="col-md-12 p0">
-                                    <textarea class="form-control" name="brief" id="exampleFormControlTextarea1"
+                                    <textarea class="form-control" name="message" id="exampleFormControlTextarea1"
                                         rows="3" required placeholder="Message"></textarea>
                                 </div>
                             </div>
@@ -769,16 +769,15 @@
 </style>
 <div class="bg-overlay">
     <div style="display:none;" class="popupform1" id="popupform1">
-        <h2>ACTIVATE YOUR NY PUBLISHERS COUPON TO AVAIL UPTO 50% DISCOUNT!</h2>
+        <h2>ACTIVATE YOUR COUPON TO AVAIL UPTO 50% DISCOUNT!</h2>
         <p style="text-decoration:underline;"><strong>LAST 7 COUPONS LEFT</strong></p>
-        <form action="" method="post" class="validate-popupform1 needs-validation" novalidate>
-            <input type="hidden" name="route">
-
-            <input type="hidden" name="brand" value="nypublishers">
+        <form action="backend/action/action.php" method="POST" class="validate-popupform1 needs-validation" novalidate>
+            <input type="hidden" name="type" value="formLong">
+            <!-- <input type="hidden" name="brand" value="nypublishers">
             <input type="hidden" name="token" value="">
             <input type="hidden" name="tag" value="home">
             <input type="hidden" name="price" value="null">
-            <input type="hidden" name="news" value="1">
+            <input type="hidden" name="news" value="1"> -->
             <ul>
                 <li>
                     <input type="text" class="required" placeholder="Full Name *" name="name" aria-required="true"
