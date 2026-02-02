@@ -167,10 +167,25 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;
-     case "services.php";
-    $title_name = "All Book Publishing Solutions | Donald’s Book Publishing";
-    $description = "Get expert help with writing, editing, design, and publishing. 
-Donald’s Book Publishing supports authors every step of the way";
+     case "book-writing.php";
+    $title_name = "Donald’s Book Publishing | Top Book Publishing Company in the USA";
+    $description = "Get your book published with the best book publishing services in the USA. Trusted by authors for editing, design, and global distribution.
+";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+      case "book-writing.php";
+    $title_name = "Donald’s Book Publishing | Top Book Publishing Company in the USA";
+    $description = "Get your book published with the best book publishing services in the USA. Trusted by authors for editing, design, and global distribution.
+";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+
+      case "audio-book.php";
+    $title_name = "Donald’s Book Publishing | Top Book Publishing Company in the USA";
+    $description = "Get your book published with the best book publishing services in the USA. Trusted by authors for editing, design, and global distribution.
+";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;

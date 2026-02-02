@@ -97,7 +97,7 @@
                             class="navbar-toggler-icon"></span>
                     </button>
                     <!-- Brand -->
-                    <div class="logo-area"> <a class="navbar-brand" href="index.php"><img
+                    <div class="logo-area"> <a class="navbar-brand" href="index"><img
                                 src="nypublishers/assets/images/home/logo.png"> </a>
                     </div>
                     <!-- Links -->
@@ -105,7 +105,7 @@
                         <ul class="navbar-nav">
                             <li class="nav-item">
                                 <div class="dropdown">
-                                    <a class="btn btn-secondary " href="index.html" role="button" id="dropdownMenuLink"
+                                    <a class="btn btn-secondary " href="index" role="button" id="dropdownMenuLink"
                                         daria-haspopup="true" aria-expanded="false">Home</a>
 
                                 </div>
@@ -116,45 +116,45 @@
                                         id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
                                         aria-expanded="false">Services</a>
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                        <a class="dropdown-item" href="book-writing.php">
+                                        <a class="dropdown-item" href="book-writing">
                                             <i class="fas fa-book-open"></i><span>Book Writing </span>
                                         </a>
-                                         <a class="dropdown-item" href="book-illustration.php">
+                                         <a class="dropdown-item" href="book-illustration">
                                             <i class="fas fa-book-open"></i><span> Book Illustrations </span>
                                         </a>
 
-                                        <a class="dropdown-item" href="ebook-writing.php">
+                                        <a class="dropdown-item" href="ebook-writing">
                                             <i class="fas fa-book-open"></i><span> E-book Writing & Publishing</span>
                                         </a>
-                                        <a class="dropdown-item" href="audio-book.php">
+                                        <a class="dropdown-item" href="audio-book">
                                             <i class="fas fa-book-open"></i><span> Audio Book</span>
                                         </a>
 
-                                        <a class="dropdown-item" href="proofreading.php">
+                                        <a class="dropdown-item" href="proofreading">
                                             <i class="fas fa-book-open"></i><span>Book Editing & Proofreading</span>
                                         </a>
 
-                                        <a class="dropdown-item" href="book-cover-design.php">
+                                        <a class="dropdown-item" href="book-cover-design">
                                             <i class="fas fa-book-open"></i><span> Book Cover Design </span>
                                         </a>
                                        
-                                        <a class="dropdown-item" href="book-publishing.php">
+                                        <a class="dropdown-item" href="book-publishing">
                                             <i class="fas fa-book-open"></i><span> Book Publishing </span>
                                         </a>
-                                        <a class="dropdown-item" href="book-printing.php">
+                                        <a class="dropdown-item" href="book-printing">
                                             <i class="fas fa-book-open"></i><span> Book Printing </span>
                                         </a>
-                                        <a class="dropdown-item" href="book-marketing.php">
+                                        <a class="dropdown-item" href="book-marketing">
                                             <i class="fas fa-book-open"></i><span> Book Marketing </span>
                                         </a>
-                                        <a class="dropdown-item" href="author-website.php">
+                                        <a class="dropdown-item" href="author-website">
                                             <i class="fas fa-book-open"></i><span> Author Website </span>
                                         </a>
 
-                                        <a class="dropdown-item" href="amazon-publishing.php">
+                                        <a class="dropdown-item" href="amazon-publishing">
                                             <i class="fas fa-book-open"></i><span> Amazon Publishing </span>
                                         </a>
-                                        <a class="dropdown-item bdr-rem" href="childrens-book.php">
+                                        <a class="dropdown-item bdr-rem" href="childrens-book">
                                             <i class="fas fa-book-open"></i><span> Childrens Book Publishing </span>
                                         </a>
                                     </div>
@@ -162,14 +162,14 @@
                             </li>
                             <li class="nav-item">
                                 <div class="dropdown">
-                                    <a class="btn btn-secondary" href="portfolio.php" role="button"
+                                    <a class="btn btn-secondary" href="portfolio" role="button"
                                         id="dropdownMenuLink" aria-haspopup="true" aria-expanded="false">Portfolio</a>
 
                                 </div>
                             </li>
                             <li class="nav-item">
                                 <div class="dropdown">
-                                    <a class="btn btn-secondary" href="testimonials.php" role="button"
+                                    <a class="btn btn-secondary" href="testimonials" role="button"
                                         id="dropdownMenuLink" aria-haspopup="true"
                                         aria-expanded="false">Testimonials</a>
 
@@ -177,14 +177,14 @@
                             </li>
                             <li class="nav-item">
                                 <div class="dropdown">
-                                    <a class="btn btn-secondary" href="about-us.php" role="button"
+                                    <a class="btn btn-secondary" href="about-us" role="button"
                                         id="dropdownMenuLink" aria-haspopup="true" aria-expanded="false">About Us</a>
 
                                 </div>
                             </li>
                             <li class="nav-item">
                                 <div class="dropdown">
-                                    <a class="btn btn-secondary" href="contact-us.php" id="dropdownMenuLink"
+                                    <a class="btn btn-secondary" href="contact-us" id="dropdownMenuLink"
                                         aria-haspopup="true" aria-expanded="false">Contact Us</a>
 
                                 </div>
