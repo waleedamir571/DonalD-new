@@ -258,7 +258,7 @@
                         distribution, ensuring that your book is not only of the highest quality but also reaches a wide
                         audience.</p>
                 </div>
-                <h2>Manuscript Editing and Proofreading </h2>
+                <!-- <h2>Manuscript Editing and Proofreading </h2>
                 <p>Our editing services are second to none. With a team of amazon book publishers and editing experts,
                     you can refine your manuscript, ensuring that it is error-free, engaging, well-structured, and ready
                     for publication. </p>
@@ -272,7 +272,7 @@
                     a range of services that can help your book stand out in a crowded marketplace. </p>
                 <h2>Distributions Competences </h2>
                 <p>We also offer distribution services, ensuring that your book is available for purchase on Amazon and
-                    other major online retailers, reaching readers around the world.</p>
+                    other major online retailers, reaching readers around the world.</p> -->
                 <br>
                 <div class="cta-btn">
 

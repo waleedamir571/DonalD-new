@@ -10,17 +10,20 @@
                     <div class="col-md-6">
                         <div class="bnr-txt ptop">
                             <h4>Your Story. Our Publishing Expertise.</h4>
-                            <h1 class="text-white"> <strong>USA-Based Book Publishers Focused on Author Success</strong>
+                            <h1 class="text-white"> <strong>USA-Based Publishers for Author Success</strong>
                             </h1>
                             <p>
-                                Donald’s Book Publishing is a USA-based publishing company dedicated to helping authors
-                                bring powerful stories to life. We provide expert book writing, publishing, and
-                                promotional services that change ideas and manuscripts into professionally published
-                                books ready for the market.
+                                Donald’s Book Publishing is a USA-based publishing company helping authors bring
+                                powerful stories to life. We offer expert writing, publishing, and promotion services
+                                that transform ideas into professionally published books ready for the market.
+
+
                             </p>
-                            <p>We help you move from concept to publication with hands-on support throughout the
-                                journey. Every detail is refined to ensure your book is prepared for the market and
-                                built to attract readers.
+                            <p>From concept to launch, we provide hands-on support, refine every detail, and deliver
+                                personalized plans, transparent pricing, and goal-driven strategies that make publishing
+                                simple, effective, and author-friendly.
+
+
 
                             </p>
                         </div>
@@ -29,12 +32,12 @@
                         <div class="cta-btn btnres">
 
                             <a href="javascript: ;" class="btn btnres1 for-m popupBtn">Get a Free Quote</a>
-                            <a href="javascript:;" onclick="setButtonURL();" class="btn btnres2 res22">Speak with a
-                                Publishing Expert </a>
+                            <a href="javascript:;" onclick="setButtonURL();" class="btn btnres2 res22">Talk to an Expert
+                            </a>
 
                         </div>
                     </div>
-                  
+
 
                     <?php include 'partials/form.php'; ?>
                 </div>
@@ -101,7 +104,8 @@
     <div class="container">
         <div class="row">
             <div class="form-txt">
-                <h2>Ready to Publish Your Book? Begin with Reliable, High-Quality Book Publishing Services!
+                <h2>Ready to Publish Your Book? Begin with Reliable, High-Quality Book Publishing Services.
+
                 </h2>
             </div>
             <!-- btn form-btn -->
@@ -179,26 +183,33 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Where Your Story Comes to Life in the USA Now
+                <h2>Donald’s Book Publishing — Where Your Story Comes to Life
+
                 </h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>Donalds Book Publishing is a full-service book writing, publishing, and marketing company helping
-                        authors turn ideas into professionally published books. From first draft to final release, we
-                        guide you through every step of the publishing process with clarity and care.
+                    <p>Donald’s Book Publishing is a premier book writing, publishing, and marketing company dedicated
+                        to transforming manuscripts into successful, market-ready books. With proven expertise and a
+                        results-driven approach, we help authors bring their ideas to life with confidence.
+
+
                     </p>
-                    <p>We work with authors across the USA who want affordable book publishing services in the USA
-                        without sacrificing quality or deadlines. Our experienced team focuses on results, transparency,
-                        and timely delivery.
+                    <p>We proudly serve authors across the USA, offering affordable publishing solutions that deliver
+                        top-tier quality without compromises or submission delays.
+
                     </p>
                     <ul>
 
                         <li>Ghostwriting Services </li>
                         <li>Professional Editing & Proofreading </li>
-                        <li> Book Cover Design & Illustrations </li>
-                        <li>Book Marketing & Promotion </li>
-                        <li>Amazon Publishing & Printing </li>
-                        <li>Children’s Book Illustration & Publishing </li>
+                        <li> Cover Design & Illustrations
+                        </li>
+                        <li>Book Promotions & Marketing
+                        </li>
+                        <li>Amazon Publishing & Printing
+                        </li>
+                        <li>Children’s Book Illustration & Publishing
+                        </li>
 
 
 
@@ -239,8 +250,9 @@
         <div class="reviews-row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Book Publishing Experts – Harness Your Book's Potential</h2>
-                    <p>Your First Step Toward Becoming a Bestseller Begins here, at our agency </p>
+                    <h2>Publishing Experts Who Bring Your Book to Life</h2>
+                    <p>Start your publishing journey with a team that guides you from idea to launch.
+                    </p>
                 </div>
             </div>
             <div class="col-md-12 write-main-div">
@@ -248,12 +260,14 @@
                     <div class="ser-box ser1">
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt ">
-                            <h3>Book Writing</h3>
+                            <h3>Book Writing
+                            </h3>
 
-                            <p class="list-scroll">Our team of experienced writers will help you craft a compelling
-                                and engaging story that resonates with your readers. We'll work with you to create
-                                characters that your readers will fall in love with and a story that they won't be
-                                able to put down.</p>
+                            <p class="list-scroll">Our team of experienced writers works closely with you to turn your
+                                ideas into a compelling story that connects with readers. From shaping strong characters
+                                to building an engaging narrative, we help create a book readers won’t want to put down.
+
+                            </p>
 
                             <a href="book-writing/index.html" class="read-txt">Read More</a>
                         </div>
@@ -263,12 +277,15 @@
                     <div class="ser-box ser4">
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
-                            <h3>Book Editing</h3>
+                            <h3>Book Editing
 
-                            <p class="list-scroll">Our professional editors will polish your manuscript to
-                                perfection, ensuring it's free of errors and reads smoothly. We'll also review your
-                                story to provide you with feedback and suggestions, helping you take it to the next
-                                level.</p>
+                            </h3>
+
+                            <p class="list-scroll">Our professional editors carefully refine your manuscript for
+                                clarity, flow, and consistency. We polish every chapter while preserving your unique
+                                voice, ensuring your book reads smoothly and feels professionally crafted.
+
+                            </p>
 
                             <a href="proofreading/index.html" class="read-txt">Read More</a>
                         </div>
@@ -278,12 +295,13 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Book Publishing</h3>
+                            <h3>Book Publishing
+                            </h3>
 
-                            <p class="list-scroll">Our self publishers take care of all aspects of book publishing,
-                                from designing a beautiful cover to formatting your manuscript for print and digital
-                                formats. With our global distribution network, your book will be available to
-                                readers worldwide. </p>
+                            <p class="list-scroll">We handle the entire publishing process, from formatting to final
+                                release. Whether print or digital, we make sure your book is professionally prepared and
+                                ready to reach readers worldwide.
+                            </p>
 
                             <a href="book-publishing/index.html" class="read-txt">Read More</a>
                         </div>
@@ -294,10 +312,10 @@
 
                         <div class="ser-box-txt">
                             <h3>Book Marketing</h3>
-                            <p class="list-scroll">Our New York Publishers and marketing team will help you promote
-                                your book to the right audience using a combination of traditional and digital
-                                marketing strategies. From social media to book tours, we'll help you build your
-                                brand and create a loyal following of readers.
+                            <p class="list-scroll">Our marketing team helps your book find the right audience through
+                                targeted promotion strategies. From online visibility to reader engagement, we work to
+                                build awareness and drive lasting interest in your book.
+
                             </p>
 
                             <a href="book-marketing/index.html" class="read-txt">Read More</a>
@@ -350,14 +368,19 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Crafting Captivating Stories To Designing Beautiful Covers</h2>
+                <h2>
+                    From Compelling Storytelling to Striking Book Covers
+                </h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>As a leading publishers in New York, we are committed to excellence in everything we do.
-                        Whether you're an established author or a first-time writer, we're here to guide you every
-                        step of the way. Let us help you transform your dreams into reality and create a book that
-                        will leave a lasting impact on your readers. We also work as a photo book publisher, so if
-                        you are considering an all-in-one book publishing experts, we are the one! </p>
+                    <p>
+                        As a trusted publishing company serving authors across the USA, we are committed to excellence
+                        at every stage of the publishing process. Whether you’re a seasoned author or writing your first
+                        book, our team is here to guide you every step of the way. We help turn your ideas into a
+                        polished, professionally published book that captivates readers and stands the test of time. We
+                        also specialize in photo book publishing, making us a complete, all-in-one publishing partner
+                        for writing, design, and publishing.
+                    </p>
                     <!-- <ul>
 
                             <li>E-book publication</li>

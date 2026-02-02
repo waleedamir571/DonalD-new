@@ -3,8 +3,13 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="sample-txt contact-txt-sec">
-                    <h2>Do You Have Something To Say?</h2>
-                    <p>Fill out the below details, and we will get back to you.</p>
+                    <h2>Ready to Share Your Story?
+                    </h2>
+                    <p class="black">Have a book idea or publishing question? We’d love to hear from you. Fill out the
+                        form below, and
+                        one of our publishing experts will get back to you shortly to discuss your project and next
+                        steps.
+                    </p>
                 </div>
                 <div class="contact-box col-md-8">
                     <form class="cmxform" action="" method="POST">
@@ -132,26 +137,25 @@
                 <div class="soc-txt txt-div">
                     <h5>Services</h5>
                     <ul style="list-style:none;">
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-writing.php">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-writing">Book
                                 Writing
                                 Services</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a
-                                href="ebook-writing.php">E-book Writing
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="ebook-writing">E-book
+                                Writing
                                 & Publishing</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a
-                                href="book-cover-design.php">Book Cover
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-cover-design">Book
+                                Cover
                                 Design</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="proofreading.php">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="proofreading">Book
                                 Proofreading & Editing</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a
-                                href="book-publishing.php">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-publishing">Book
                                 Publishing Services</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-marketing.php">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-marketing">Book
                                 Marketing</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="amazon-publishing.php">
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="amazon-publishing">
                                 Amazon
                                 Publishing </a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="childrens-book.php">
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="children-book">
                                 Childrens
                                 Book
                                 Publishing </a></li>
@@ -163,14 +167,13 @@
                     <h5>Company</h5>
                     <ul>
 
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a
-                                href="testimonials.php">Testimonials</a>
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="testimonials">Testimonials</a>
                         </li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="about-us.php">About
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="about-us">About
                                 Us</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a
-                                href="portfolio.php">Portfolio</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="contact-us.php">
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="portfolio">Portfolio</a>
+                        </li>
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="contact-us">
                                 Contact Us</a></li>
                     </ul>
 
@@ -206,10 +209,10 @@
     color: #fff;
     padding: 0;
     margin: 0;">
-                    <li><a href="https://www.facebook.com/"><span style=" padding: 2px; color:#fff;"
-                                class="fa fa-facebook"></span></a>
-                        <a href="https://www.instagram.com/"><span style="padding: 2px; color:#fff;"
-                                class="fa fa-instagram"></span></a>
+                    <li><a href="https://www.facebook.com/profile.php?id=61574978285920"><span
+                                style=" padding: 2px; color:#fff;" class="fa fa-facebook"></span></a>
+                        <a href="https://www.instagram.com/donaldsbookpublishing/"><span
+                                style="padding: 2px; color:#fff;" class="fa fa-instagram"></span></a>
                         <!--<a href="javascript:;"><span style="padding: 2px; color:#fff;" class="fab fa-linkedin-in"></span></a>-->
                         <!-- <a><span style="padding: 2px; color:#fff;" class="fa fa-twitter"></span></a> -->
                 </ul>

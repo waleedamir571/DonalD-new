@@ -164,12 +164,13 @@
                     <div class="col-md-6">
                         <div class="bnr-txt btn-tx-cp">
                             <h4>Make Your Final Drafts Flawless</h4>
-                            <h1>Have the Stroke of Genius with Adept Book Editing And Proofreading Services</h1>
+                            <h1>Achieve Perfection with Expert Book Editing & Proofreading</h1>
 
-                            <p>Our team of linguistic professionals based in New York provides hawk-eyed scrutiny to
-                                your written pieces. We identify and correct grammatical, structural, and verb issues,
-                                ensuring your work is polished and error-free. Trust us to elevate your writing and help
-                                you achieve your desired results through skilled book editing and proofreading services.
+                            <p>Our team of professional editors in the USA provides meticulous attention to every detail
+                                of your manuscript. We correct grammar, structure, and style issues to ensure your work
+                                is polished, clear, and error-free. Trust us to refine your writing and help you achieve
+                                your publishing goals with top-quality book editing and proofreading services.
+
                             </p>
 
                         </div>
@@ -251,14 +252,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Outstanding Book Editors For Hire</h2>
+                <h2>Perfect Your Final Drafts</h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>We understand that every writer needs a fresh set of eyes to perfect their work, no matter their
-                        level of experience. Our team of versatile experts analyzes and corrects every aspect of your
-                        manuscript, ensuring it is error-free and grammatically correct. We provide attention to detail
-                        to transport your written masterpiece to readers’ sight unlike other proof reading companies.
-                        With us you get complete online editor service. </p>
+                    <p>Our USA-based team of expert editors carefully reviews every detail of your manuscript. We fix
+                        grammar, structure, and style issues, ensuring your book is polished, professional, and
+                        flawless. Rely on us to elevate your writing and help you achieve your publishing goals with
+                        premium editing and proofreading services.
+                    </p>
                     <p>Consult our book editors for hire to review your manuscript today! </p>
                 </div>
                 <br>
@@ -381,7 +382,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="creative-txt">
-                    <h2 class="text-center">Our 4-Step Formula of Book Editers and Professional Proofreaders</h2>
+                    <h2 class="text-center">Our 4-Step Formula of Book Editors and Professional Proofreaders</h2>
 
                 </div>
             </div>
@@ -456,10 +457,12 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Professional Editorial Services</h3>
-                            <p class="font-14">We perform a thorough evaluation of your manuscript and conduct a peer
-                                review to analyze grammar, punctuation, spelling, structure, and more to ensure it meets
-                                the highest standards.</p>
+                            <h3 class="h2Heading">Professional Editorial Services
+                            </h3>
+                            <p class="font-14">Our team conducts a comprehensive evaluation of your manuscript,
+                                including peer review, to examine grammar, punctuation, spelling, structure, and overall
+                                clarity. We ensure your book meets the highest professional standards, making it ready
+                                for publication.</p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
@@ -481,10 +484,8 @@
                             style="margin-left: -40px;">
                             <h3 class="h2Heading">Expert Copyediting</h3>
                             <p class="font-14">
-                                Our team of experienced copy editors meticulously examines your manuscript line by line,
-                                fixing errors and inconsistencies to ensure your work is polished and professional.
-
-
+                                Our skilled copy editors review your manuscript line by line, correcting errors and
+                                inconsistencies to ensure your work is clear, polished, and fully professional.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -504,8 +505,11 @@
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
                             <h3 class="h2Heading">Proofreading for Perfection</h3>
                             <p class="font-14">
-                                Our proofreading editor focuses on correcting any remaining errors in your manuscript
-                                before it goes to print, ensuring that it is free from typos and other mistakes.
+                                Our expert proofreaders carefully review your manuscript to catch and correct any
+                                remaining errors, ensuring your book is completely free of typos and ready for
+                                publication.
+
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -526,11 +530,13 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Collaborative Feedback</h3>
+                            <h3 class="h2Heading">Collaborative Feedback
+                            </h3>
                             <p class="font-14">
-                                We work with you throughout the editing and proofreading process, providing
-                                collaborative feedback to help you improve your manuscript and ensure your voice is
-                                heard.
+                                We partner with you throughout the editing and proofreading process, offering
+                                constructive feedback to refine your manuscript while preserving your unique voice.
+
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>

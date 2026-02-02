@@ -174,21 +174,52 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;
-      case "book-writing.php";
-    $title_name = "Donald’s Book Publishing | Top Book Publishing Company in the USA";
-    $description = "Get your book published with the best book publishing services in the USA. Trusted by authors for editing, design, and global distribution.
-";
+      case "book-writing-services.php";
+    $title_name = "Professional Book Printing Services in the USA | Donald’s Book Publishing";
+    $description = "Affordable and high-quality book printing services in the USA. Get custom, self-publishing, or bulk book printing with fast turnaround and expert support.";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;
 
       case "audio-book.php";
-    $title_name = "Donald’s Book Publishing | Top Book Publishing Company in the USA";
-    $description = "Get your book published with the best book publishing services in the USA. Trusted by authors for editing, design, and global distribution.
-";
+    $title_name = "Donald’s Book Publishing | Audiobook Services for Children’s Books";
+    $description = "Turn your children’s stories into engaging audiobooks with Donald’s Book Publishing—professional narration and production made easy.";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;
+
+          case "ebook-writing-services.php";
+    $title_name = " Donald’s Book Publishing | Ebooks & Children’s Book Publishing";
+    $description = "Publish children’s books and ebooks with Donald’s Book Publishing—bringing stories to life with illustrations and professional guidance.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+           case "book-illustration-services.php";
+    $title_name = " Donald’s Book Publishing | Book Illustration Services";
+    $description = "Bring your children’s stories to life with Donald’s Book Publishing—custom illustrations that captivate and inspire young readers.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+        case "book-editing-and-proofreading-services.php";
+    $title_name = " Donald’s Book Publishing | Book Editing Services for Children’s Books";
+    $description = "Perfect your children’s book with Donald’s Book Publishing—professional editing to refine stories, illustrations, and text for young readers. ";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+
+       case "book-cover-design-services.php";
+    $title_name = " Donald’s Book Publishing | Book Cover Design Services";
+    $description = "Make your children’s book stand out with Donald’s Book Publishing—creative and professional cover designs that captivate young readers.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+      case "book-publishing-services.php";
+    $title_name = " Donald’s Book Publishing | Children’s Book Publishing Services";
+    $description = "Publish your children’s book with Donald’s Book Publishing—complete services from editing and illustration to print and digital release.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+
 
 
 

@@ -48,6 +48,8 @@
     <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/style.css">
     <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
 
+    
+
    
     <style>
         .cta-btn.btnres {
@@ -78,6 +80,12 @@
             }
         }
     </style>
+
+    
+    <!-- Start of donaldspublishing Zendesk Widget script -->
+    <script id="ze-snippet"
+        src="https://static.zdassets.com/ekr/snippet.js?key=925e5025-07cd-4ef9-9270-59cba09e2eec"> </script>
+    <!-- End of donaldspublishing Zendesk Widget script -->
 </head>
 
 
@@ -118,29 +126,29 @@
                                         id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
                                         aria-expanded="false">Services</a>
                                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                        <a class="dropdown-item" href="book-writing">
+                                        <a class="dropdown-item" href="book-writing-services">
                                             <i class="fas fa-book-open"></i><span>Book Writing </span>
                                         </a>
-                                         <a class="dropdown-item" href="book-illustration">
+                                         <a class="dropdown-item" href="book-illustration-services">
                                             <i class="fas fa-book-open"></i><span> Book Illustrations </span>
                                         </a>
 
-                                        <a class="dropdown-item" href="ebook-writing">
+                                        <a class="dropdown-item" href="ebook-writing-services">
                                             <i class="fas fa-book-open"></i><span> E-book Writing & Publishing</span>
                                         </a>
-                                        <a class="dropdown-item" href="audio-book">
+                                        <a class="dropdown-item" href="audiobook-services">
                                             <i class="fas fa-book-open"></i><span> Audio Book</span>
                                         </a>
 
-                                        <a class="dropdown-item" href="proofreading">
+                                        <a class="dropdown-item" href="book-editing-and-proofreading-services">
                                             <i class="fas fa-book-open"></i><span>Book Editing & Proofreading</span>
                                         </a>
 
-                                        <a class="dropdown-item" href="book-cover-design">
+                                        <a class="dropdown-item" href="book-cover-design-services">
                                             <i class="fas fa-book-open"></i><span> Book Cover Design </span>
                                         </a>
                                        
-                                        <a class="dropdown-item" href="book-publishing">
+                                        <a class="dropdown-item" href="book-publishing-services">
                                             <i class="fas fa-book-open"></i><span> Book Publishing </span>
                                         </a>
                                         <a class="dropdown-item" href="book-printing">
@@ -156,7 +164,7 @@
                                         <a class="dropdown-item" href="amazon-publishing">
                                             <i class="fas fa-book-open"></i><span> Amazon Publishing </span>
                                         </a>
-                                        <a class="dropdown-item bdr-rem" href="childrens-book">
+                                        <a class="dropdown-item bdr-rem" href="children-book">
                                             <i class="fas fa-book-open"></i><span> Childrens Book Publishing </span>
                                         </a>
                                     </div>

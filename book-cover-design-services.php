@@ -9,11 +9,14 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="bnr-txt btn-tx-cp">
-                            <h4>The design should have an impact</h4>
-                            <h2>Professional Book Cover Designs to Grab those Eyeballs. </h2>
-                            <p>Don’t underestimate the power of a professional book cover design. It can make all the
-                                difference in generating sales and captivating readers’ attention. NY Publishers’ book
-                                cover designers specialize in crafting creative designs that win readers’ hearts. </p>
+                            <h4>Make Your Book Cover Stand Out
+                            </h4>
+                            <h2>Professional Book Cover Designs That Grab Attention
+                            </h2>
+                            <p>Never underestimate the power of a professionally designed book cover. A striking cover
+                                can boost sales and capture readers’ interest instantly. Our expert book cover designers
+                                create visually compelling designs that attract readers and make your book impossible to
+                                ignore. </p>
 
                         </div>
                         <div class="cta-btn btnres">
@@ -96,14 +99,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Designing ebook Covers with A Unique Appeal </h2>
+                <h2>Designing eBook Covers with a Unique Appeal
+                </h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>Our industry-leading designers use their distinctive artistic skillset to create ebook cover
-                        designs. Don’t worry about designing ebook covers on your own; we have the skills you need. We
-                        ensure that your book’s front and back displays its true essence. With a focus on attracting
-                        readers at first sight, our hardworking team ensures your book cover is a creative masterpiece.
-                        Let us help you make an impact with our book cover design services.</p>
+                    <p>Our expert designers bring creativity and skill to every eBook cover, capturing the essence of
+                        your story. Forget struggling with design yourself—we provide professional covers that showcase
+                        your book’s personality. Focused on grabbing readers’ attention at first glance, our team
+                        ensures your cover becomes a visual masterpiece. Let us help you make a lasting impact with our
+                        eBook cover design services.
+                    </p>
                 </div>
                 <br>
                 <div class="cta-btn">
@@ -141,10 +146,11 @@
                     <div class="ser-box ser1">
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt">
-                            <h3>Sky-High Expertise </h3>
-                            <p class="text-center">Our team specializes in multiple genres, from history to
-                                autobiography. We provide exceptional quality and unrivaled support to advance your book
-                                cover design!</p>
+                            <h3>Unmatched Expertise </h3>
+                            <p class="text-center"> Our team excels across multiple genres—from history to
+                                autobiography—delivering exceptional quality and expert guidance to elevate your book
+                                cover design.
+                            </p>
 
                         </div>
                     </div>
@@ -153,10 +159,12 @@
                     <div class="ser-box ser4">
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
-                            <h3>Personalized Design </h3>
-                            <p>Our customized services match you with an expert based on your desired genre. After
-                                carefully listening to your instructions, we create a hierarchical outline and deliver
-                                your design within the guaranteed timeframe.</p>
+                            <h3>Personalized Design
+                            </h3>
+                            <p> We match you with a design specialist tailored to your genre. By carefully understanding
+                                your vision, we create a structured, thoughtful design and deliver it on time, every
+                                time.
+                            </p>
 
                         </div>
                     </div>
@@ -165,9 +173,12 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Seamless Communication </h3>
-                            <p>We believe in honest service and treating each client as unique. Our flawless
-                                communication ensures empathy and understanding throughout the design process.</p>
+                            <h3>Seamless Communication
+                            </h3>
+                            <p> We treat every client and project as unique. Through clear, honest, and responsive
+                                communication, we ensure your ideas are understood and realized throughout the design
+                                process.
+                            </p>
 
                         </div>
                     </div>
@@ -375,12 +386,12 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Eye-Catching Designs That Sell </h3>
+                            <h3 class="h2Heading">Cover Art That Sells Your Story </h3>
                             <p class="font-14">
-                                Our book cover designs are more than just pretty pictures – they’re marketing tools that
-                                attract readers and drive sales. Now you don’t have to type in book designers near me in
-                                the google search bar anymore. Our company has all the tools and solutions you need to
-                                get your book out in the market.
+                                Our book covers are more than just visuals—they’re powerful marketing tools designed to
+                                capture attention and boost sales. With our full suite of design solutions, you no
+                                longer need to search “book designers near me.” We provide everything you need to bring
+                                your book to market successfully.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -401,11 +412,14 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Customized Designs for Every Client </h3>
+                            <h3 class="h2Heading">Custom Designs Tailored to You
+                            </h3>
                             <p class="font-14">
-                                No matter what type of book you’ve written, our team of experts will create a unique and
-                                personalized cover design that fits your budget. We offer multiple packages and bundles
-                                types to make the designing services affordable.
+                                Whatever type of book you’ve written, our experts craft a unique, personalized cover
+                                that reflects your vision. With a variety of packages and bundles, we make professional
+                                design services accessible and affordable for every author.
+
+
 
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
@@ -424,12 +438,13 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Collaboration is Key </h3>
+                            <h3 class="h2Heading">Collaboration at Every Step </h3>
                             <p class="font-14">
-                                We believe that the best designs come from working closely with our clients. That’s why
-                                we involve you in every step of the process to ensure your ideas are executed the way
-                                you have always imagined. Our agency gives special focus to clients, so they can
-                                communicate their concerns in their comfort zone.
+                                We know the best designs are born from partnership. That’s why we involve you throughout
+                                the design process, ensuring your vision is brought to life exactly as you imagined. Our
+                                team prioritizes your comfort and open communication, so you can share your ideas and
+                                concerns freely.
+
 
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
@@ -452,12 +467,14 @@
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
                             <h3 class="h2Heading">Fast, Affordable, and Professional
+
                             </h3>
                             <p class="font-14">
-                                We offer quick turnaround times, competitive pricing, and top-notch quality to ensure
-                                you get the best value for your investment in the USA and beyond. With us, you don’t
-                                have to opt for a cheap service, especially when you can have a top-rated service at an
-                                affordable rate.
+                                We deliver high-quality design services with quick turnaround times and competitive
+                                pricing, giving you the best value for your investment—both in the USA and
+                                internationally. With us, you don’t have to compromise on quality to stay within budget;
+                                top-tier service is always within reach.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>

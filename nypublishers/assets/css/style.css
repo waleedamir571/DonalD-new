@@ -41,6 +41,10 @@ header {
 #pricing-tab tr.inner-th th {
     border-right: 1px solid #dedde4
 }
+.black{
+    color: black !important;
+}
+
 
 #header,
 select {

@@ -1,52 +1,45 @@
 <?php include 'partials/header.php'; ?>
+<!-- header-end -->
 
-<section id="banner" class="banneroad01 bwss service-bannner">
-
+<!-- banner-start -->
+<section class="banneroad01- bpss" style="height: 600px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="bnr-txt btn-tx-cp">
-                            <h4>Your Story. Our Publishing Expertise.
-                            </h4>
-                            <h2>USA-Based Book Publishers Focused on Author Success
-                            </h2>
-                            <p>
-                                Donald’s Book Publishing is a USA-based publishing company dedicated to helping authors
-                                bring powerful stories to life. We provide expert book writing, publishing, and
-                                promotional services that change ideas and manuscripts into professionally published
-                                books ready for the market.
+                            <h4>Publish Your Story Worldwide</h4>
 
+
+                            <h2>Share Your Book with the World Through Our Premier Publishing Services</h2>
+                            <br>
+                            <p class="para-line">Your book is ready to be read—but not sure how to publish it? We’re
+                                here to help. Donald’s Book Publishing ensures your masterpiece reaches your target
+                                audience with care, passion, and dedication. Our team of experts guides you through the
+                                publishing process, making it fast, simple, and hassle-free.
                             </p>
-                            <p>We help you move from concept to publication with hands-on support throughout the
-                                journey. Every detail is refined to ensure your book is prepared for the market and
-                                built to attract readers.
-                            </p>
-                            <!-- <p>With personalized publishing plans, transparent pricing, and goal-driven strategies, we
-                                make the publishing process straightforward and author-friendly. No matter if you’re a
-                                first-time writer or a seasoned author, we deliver solutions built around your vision
-                                and success.
-                            </p> -->
+
                         </div>
                         <div class="cta-btn btnres">
 
-                            <a href="javascript:;" class="btn btnres1 popupBtn">Get A Quote</a>
+                            <a href="javascript: ;" class="btn btnres1 for-m popupBtn">Get A Quote</a>
 
-                            <a href="javascript:;" onclick="setButtonURL();" class="btn btnres2">Get Started</a>
+                            <a href="javascript:;" onclick="setButtonURL();" style="background:#116591; color:white;"
+                                class="btn btnres2 pub">Get Started</a>
 
 
                         </div>
 
                     </div>
-                     <?php include 'partials/form.php'; ?>
+
+                    <?php include 'partials/form.php'; ?>
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- banner-end -->
-
 <div class="bottomSec">
     <div class="container">
         <div class="row">
@@ -110,22 +103,21 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h4>Sharing Ideas Heart-to-Heart! </h4>
-                <h2>Book Writers For Hire are Available </h2>
+                <h2>The Fastest and Most Seamless Publishing Process
+                </h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>
-                        We all have some story to tell, but only a few have the time or the writing skills to craft a
-                        compelling piece that resonates with the audience. This is where our book writers for hire come
-                        in. We connect you with a specialist in your genre and niche with the skills and expertise to
-                        capture your unique voice and amplify it for you.
+                    <p>At Donald’s Book Publishing, our team of experienced writing and publishing professionals has
+                        excelled across every genre and book format. Our process is efficient, legitimate, and
+                        streamlined, ensuring your manuscript moves smoothly from draft to published work. With our
+                        expertise, we’ve helped hundreds of aspiring authors worldwide achieve published status and earn
+                        recognition for their work.
                     </p>
-                    <p>Hire book writers today! </p>
                 </div>
                 <br>
                 <div class="cta-btn">
 
-                    <a href="javascript:;" class="btn popupBtn">Get A Quote</a>
+                    <a href="javascript: ;" class="btn  for-m popupBtn cta-btn-3">Get A Quote</a>
 
                     <a href="javascript:;" onclick="setButtonURL();" class="btn liveChat">Live Chat</a>
 
@@ -136,7 +128,7 @@
             </div>
             <div class=" col-md-6 inner-tx-p">
                 <div class="inner-img-lp">
-                    <img class="img-sec6 " src="assets/images/book-writng-sr.png">
+                    <img class="img-sec5 " src="nypublishers/assets/images/bookps.png">
                 </div>
             </div>
         </div>
@@ -149,7 +141,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Our Result-Oriented Approach For Noticeable Outcomes</h2>
+                    <h2>Our Effortless Approach</h2>
 
                 </div>
             </div>
@@ -158,13 +150,10 @@
                     <div class="ser-box ser1">
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt">
-                            <h3>Expertise for Every Story</h3>
-                            <p class="list-scroll">
-                                No matter what kind of story you want, our team of skilled can pen it for you. From
-                                memoirs to mysteries and everything in between, our book writing company offers a wide
-                                range of expertise to draw from. From ghostwriting to creating book writing website to
-                                establish your online presence, trust us to deliver exceptional quality for your
-                                project.
+                            <h3>Extensive Expertise</h3>
+                            <p class="list-scroll">With Donald’s Book Publishing, the sky’s the limit. Our experienced
+                                team understands industry standards across genres and ensures your book is published to
+                                meet the high expectations of your niche.
                             </p>
 
                         </div>
@@ -174,12 +163,10 @@
                     <div class="ser-box ser4">
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
-                            <h3>Customized Support</h3>
-                            <p class="list-scroll">
-                                Your book deserves personalized attention, so we assign a dedicated team of writers with
-                                expertise in your specific genre and niche. We listen closely to your vision and work
-                                with you closely to bring it to fruition.
-                            </p>
+                            <h3>Personalized Service</h3>
+                            <p class="list-scroll"> Every author and book is unique. We craft tailored publishing
+                                strategies based on your genre and goals, listening carefully to your instructions,
+                                mapping out a clear plan, and delivering results on time.</p>
 
                         </div>
                     </div>
@@ -188,13 +175,11 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Communication that Counts </h3>
-                            <p class="list-scroll">
-
-                                At New York Publishers, we know effective communication is critical to a successful
-                                collaboration. We take the time to understand your requirements and keep you in the loop
-                                at every stage. We stand by our promises and guarantee 100% client satisfaction.
-
+                            <h3>Clear Client Communication
+                            </h3>
+                            <p class="list-scroll"> No two projects are the same, and we treat each one individually. We
+                                prioritize transparent, responsive communication throughout the process to ensure your
+                                vision is realized every step of the way.
                             </p>
 
                         </div>
@@ -240,109 +225,21 @@
 
 
 </section>
+
 <!-- cta-1 -->
 
 
 <!-- samples -->
 <!-- samples -->
-<?php include 'partials/slider.php'; ?>  
-
+<?php include 'partials/slider.php'; ?>
 
 <!-- creative-ser -->
-<!-- <section id="creative-tab2" class="">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="creative-txt">
-                        <h2 class="text-center">Our Process</h2>
-
-                    </div>
-                </div>
-            </div>
-            <div class="row faq-tab-div2"> -->
-<!-- Nav tabs -->
-
-<!-- <div class="col-md-6">
-                    <div id="crtab2-1" class="tabcontent2" style="display: block;">
-                        <div class="ctr-tavb-img">
-                            <img class="img-fluid " src="assets/images/p-1.png">
-                        </div>
-                    </div>
-                    <div id="crtab2-2" class="tabcontent2" style="display: none;">
-                        <div class="ctr-tavb-img">
-                            <img class="img-fluid " src="assets/images/p-2.png">
-                        </div>
-                    </div>
-                    <div id="crtab2-3" class="tabcontent2" style="display: none;">
-                        <div class="ctr-tavb-img">
-                            <img class="img-fluid " src="assets/images/p-3.png">
-                        </div>
-                    </div>
-                    <div id="crtab2-4" class="tabcontent2" style="display: none;">
-                        <div class="ctr-tavb-img">
-                            <img class="img-fluid " src="assets/images/p-4.png">
-                        </div>
-                    </div>
-                </div> -->
-
-<!-- ul -->
-<!-- <div class="col-md-6">
-                    <div class="tab crt-tab-menu">
-                        <div class="border-lt">
-                            <button class="tablinks2 btn-one-cr active" data-toggle="modal" data-target="#Mymodal"
-                                onclick="openCity2(event, 'crtab2-1')" id="defaultOpen2">
-                                <div class="tab-txt-2 tab-txt-img1">
-                                    <h3>Research and Outlining the First Draft</h3>
-                                    <p>
-                                        Before delving into the manuscript, we form a clear understanding of your idea,
-                                        instructions and requirements. We then conduct necessary research and devise a
-                                        preliminary outline and a tentative table of contents for your review.
-                                    </p>
-                                </div>
-                            </button>
-                            <button class="tablinks2" onclick="openCity2(event, 'crtab2-2')">
-                                <div class="tab-txt-2 tab-txt-img2">
-                                    <h3>Writing</h3>
-                                    <p>Once you approve the outline and table of contents, your dedicated writing team
-                                        will write and share drafts of the manuscript with you chapter by chapter.
-                                        Throughout the writing process, you have the facility of requesting an unlimited
-                                        number of revisions till you are 100% satisfied.</p>
-                                </div>
-                            </button>
-                            <button class="tablinks2" onclick="openCity2(event, 'crtab2-3')">
-                                <div class="tab-txt-2 tab-txt-img3">
-                                    <h3>Critical Review, Editing and Proofreading</h3>
-                                    <p>
-                                        Every draft we share with you is edited and proofread once written. Once we
-                                        complete writing your manuscript, our editors perform a critical assessment of
-                                        it, proofread and edit it thoroughly before finalisation.
-                                    </p>
-                                </div>
-                            </button>
-                            <button class="tablinks2" onclick="openCity2(event, 'crtab2-4')">
-                                <div class="tab-txt-2 tab-txt-img4">
-                                    <h3>Formatting, Typesetting and Design</h3>
-                                    <p>
-                                        Once your manuscript is finalised and approved from your end, we set the layout
-                                        of the book, format it extensively, perform typesetting as per International
-                                        publishing standards and design the book's cover as per your preferences.
-                                    </p>
-                                </div>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section> -->
-
 <section id="creative-tab2" class="">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="creative-txt">
-                    <h2 class="text-center">Our Innovative Writing Process</h2>
+                    <h2 class="text-center">Our Process</h2>
 
                 </div>
             </div>
@@ -419,16 +316,16 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">In-depth Research Of Draft</h3>
-                            <p class="font-14">Unleash the full potential of your story with our in-depth research
-                                services. Our team of experienced researchers will help you gather the most relevant and
-                                accurate information, giving your book a level of authenticity that excites your
-                                readers. </p>
+                            <h3 class="h2Heading">Draft Submission
+                            </h3>
+                            <p class="font-14">You submit your manuscript along with clear instructions for editing,
+                                formatting, printing, and publishing, allowing our team to begin the process seamlessly.
+                            </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/1111.png" alt="professional writer service"
-                                class="border-radius-20 img-non-fliud">
+                            <img src="nypublishers/assets/images/publishing/steps1.jpg"
+                                alt="professional writer service" class="border-radius-20 img-non-fliud">
                         </div>
                     </div>
                 </div>
@@ -443,18 +340,18 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">The Writing Process</h3>
+                            <h3 class="h2Heading">Editing & Proofreading
+                            </h3>
                             <p class="font-14">
-                                Our skilled book writers USA weave together words and ideas into a cohesive and engaging
-                                narrative. From brainstorming to the final draft, we will support you and help you
-                                create a book you can be proud of.
+                                We assign a seasoned editor to carefully review, refine, edit, and proofread your
+                                manuscript, ensuring accuracy, clarity, and a polished final draft.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div style="width:100%;"
                             class="order-1 order-md-1 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/2222.png" alt="professional writer service"
-                                class="border-radius-20 img-non-fliud-left">
+                            <img src="nypublishers/assets/images/publishing/steps2.webp"
+                                alt="professional writer service" class="border-radius-20 img-non-fliud-left">
                         </div>
                     </div>
                 </div>
@@ -465,17 +362,17 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Review, Edit, and Proofread</h3>
+                            <h3 class="h2Heading">Typesetting, Images & Illustrations</h3>
                             <p class="font-14">
-                                Every great book needs a great editor, and our team of experts is here to ensure your
-                                book shines. Our eagle-eyed editors will catch every typo, misplaced comma, and plot
-                                hole, leaving you with a truly professional and compelling book.
+                                Once your manuscript is finalized after editing, we apply professional typesetting and
+                                seamlessly incorporate images and illustrations to enhance its visual appeal.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/3333.png" alt="professional writer service"
-                                class="border-radius-20 img-non-fliud">
+                            <img src="nypublishers/assets/images/publishing/steps3.png"
+                                alt="professional writer service" class="border-radius-20 img-non-fliud">
                         </div>
                     </div>
                 </div>
@@ -490,16 +387,19 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Formatting and Design</h3>
+                            <h3 class="h2Heading">Book Design
+                            </h3>
                             <p class="font-14">
-                                Your great work deserves a great design. We will work with you to create a cover and
-                                interior design that reflects the essence of your story.
+                                Your book is professionally designed from cover to cover, including front and back
+                                covers, compelling blurbs, an author bio, table of contents, and all necessary
+                                disclaimers.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-1 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/4444.png" alt="professional writer service"
-                                class="border-radius-20 img-non-fliud-left">
+                            <img src="nypublishers/assets/images/publishing/steps4.jpg"
+                                alt="professional writer service" class="border-radius-20 img-non-fliud-left">
                         </div>
                     </div>
                 </div>
@@ -510,11 +410,7 @@
 <!-- creative-ser -->
 
 
-
-
-
 <!-- contact-form -->
 
-
-
+<!--main-footer -->
 <?php include 'partials/footer.php'; ?>
