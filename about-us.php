@@ -132,14 +132,17 @@
 
 
             <div class="col-lg-6 col-md-6 col-sm-12 my-auto">
-                <h2 class="main-heading">Transforming Your Writing Dream into a Best-Selling Reality, Step by Step.</h2>
-                <p class="main-para">As avid believers in the power of storytelling, we at New York Publishers are
-                    dedicated to helping you achieve your writing and publication dreams. Whether you want to share your
-                    personal journey, craft a captivating work of fiction, or delve into a historical topic, our
-                    passionate book enthusiasts will refine your experience word by word.
+                <h2 class="main-heading">Turning Your Writing Dreams into Best-Selling Reality, Step by Step
+                </h2>
+                <p class="main-para">At Donald’s Book Publishing, we believe in the power of storytelling and are
+                    committed to helping you achieve your writing and publishing goals. Whether you want to share your
+                    personal journey, craft a compelling work of fiction, or explore historical topics, our passionate
+                    team will refine your manuscript word by word.
+
                     <br><br>
-                    Our seasoned experts are masters of their respective genres, boasting a wealth of experience and
-                    talent that sets us apart from the competition.
+                    Our seasoned experts are masters of their genres, bringing unmatched experience and talent to every
+                    project, helping your work stand out in a competitive market.
+
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 ">
@@ -338,16 +341,16 @@
             </div>
             <div class="col-12 col-lg-8">
                 <div class="award-winning-wrap">
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/axiom.webp"
-                            class="img-fluid" alt="axiom"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/axiom.webp" class="img-fluid"
+                            alt="axiom"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/gold.webp" class="img-fluid"
                             alt="gold"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/finalist.webp"
                             class="img-fluid" alt="finalist"></div>
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/global.webp"
-                            class="img-fluid" alt="global"></div>
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/illum.webp"
-                            class="img-fluid" alt="illum"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/global.webp" class="img-fluid"
+                            alt="global"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/illum.webp" class="img-fluid"
+                            alt="illum"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/moon.webp" class="img-fluid"
                             alt="moon"></div>
                 </div>

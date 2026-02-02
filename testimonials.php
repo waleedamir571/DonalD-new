@@ -106,7 +106,7 @@
                         <div class="thumbnail review-box">
                             <div class="caption">
                                 <h3 class="text-center review-heading">Rose O Sullivan</h3>
-                                <p class="text-center review-text list-scroll">New York Publishers is a great place to
+                                <p class="text-center review-text list-scroll">Donalds book Publishers is a great place to
                                     get your book written. They have experienced writers on board who actually walk
                                     extra miles to fulfil your expectations. I have worked with them and got truly
                                     impressed.</p>
@@ -146,7 +146,7 @@
                         <div class="thumbnail review-box">
                             <div class="caption">
                                 <h3 class="text-center review-heading">John Selby</h3>
-                                <p class="text-center review-text">New York Publishers has been wonderful in editing my
+                                <p class="text-center review-text">Donalds book Publishers has been wonderful in editing my
                                     book. They are working in a very timely and responsive way. I really like working
                                     with them and have already recommended them to several other people. A BIG THUMBS
                                     UP.</p>
@@ -185,9 +185,9 @@
                         <div class="thumbnail review-box">
                             <div class="caption">
                                 <h3 class="text-center review-heading">Brian Payne</h3>
-                                <p class="text-center review-text"> I can highly recommend New York Publishers as a
+                                <p class="text-center review-text"> I can highly recommend Donalds book Publishers as a
                                     fantastic company with really helpful people that deliver great results on time. I
-                                    could not have achieved this with out them. Thank you New York Publishers.</p>
+                                    could not have achieved this with out them. Thank you Donalds book Publishers.</p>
                                 <ul class="list-group text-left">
                                     <li class="list-group-item">
                                         <span class="text-uppercase">communication</span>
@@ -310,7 +310,7 @@
                             <div class="caption">
 
                                 <h3 class="text-center review-heading">Stephen Hendry</h3>
-                                <p class="text-center review-text">New York Publishers, I have made a friend for life.
+                                <p class="text-center review-text">Donalds book Publishers, I have made a friend for life.
                                     It's one thing to call or feel like a writer, but if you want all the bells and
                                     whistles in a completed writing. Trust me call these people.Thanks alot for making
                                     my dream come true</p>

@@ -238,6 +238,12 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
 
     break;
+     case "children-book-services.php";
+    $title_name = " Donald’s Book Publishing | Children’s Book Services";
+    $description = "Bring your children’s stories to life with Donald’s Book Publishing—complete services from writing, illustration, editing, to publishing.";
+    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
 
 
 

@@ -156,14 +156,17 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="bnr-txt">
-                            <h4>Ensuring Worldwide Publication of your Stories on Amazon</h4>
+                            <h4>Children’s Book Publishing Services
+                            </h4>
                             <h2>Reach Global Market with Personalized Amazon Book Publishing Services </h2>
-                            <p class="para-line">Your stories deserve to be read worldwide. But sometimes, traditional
-                                publishing houses can be a hurdle in achieving that dream. At NY Publishers, our amazon
-                                book publishing services can help you publish your book on Amazon, giving you access to
-                                a global audience.</p>
-                            <p class="para-line">Don’t let rejection hold you back from realizing your literary
-                                ambitions. Get in touch for worldwide outreach. </p>
+                            <p class="para-line">We help you bring your stories to life for young readers, sparking
+                                their imagination and capturing their interest. With vibrant illustrations, high-quality
+                                printing, and engaging content on every page, your book will stand out and delight
+                                children.
+                            </p>
+                            <p class="para-line">Our affordable and accessible children’s book publishing services make
+                                it easy for authors of all backgrounds to share their stories with the next generation.
+                            </p>
 
                         </div>
                         <div class="cta-btn btnres">
@@ -176,8 +179,8 @@
                         </div>
 
                     </div>
-                    
-                     <?php include 'partials/form.php'; ?>
+
+                    <?php include 'partials/form.php'; ?>
                 </div>
             </div>
         </div>
@@ -250,13 +253,13 @@
                 <h2>Move Your Story Fast with Amazon Publisher Services</h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p>We offer the most efficient and comprehensive amazon publisher services to authors and aspiring
-                        writers. At NY Publishers, we are committed to helping authors and publishers move their stories
-                        fast.  </p>
-                    <p>Our suite of Amazon book publisher services is designed to help authors at every stage of the
-                        publishing process. It covers a range of areas, including editing, design, marketing, and
-                        distribution, ensuring that your book is not only of the highest quality but also reaches a wide
-                        audience.</p>
+                    <p> At Donald’s Book Publishing, we provide efficient and comprehensive Amazon publishing services
+                        for authors and aspiring writers. Our goal is to help you bring your story to readers quickly
+                        and professionally.
+                         </p>
+                    <p>With our complete suite of services, your book will not only meet the highest quality standards
+                        but also reach the readers it deserves.
+                    </p>
                 </div>
                 <!-- <h2>Manuscript Editing and Proofreading </h2>
                 <p>Our editing services are second to none. With a team of amazon book publishers and editing experts,
@@ -300,9 +303,11 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Our Amazing Process That Drives Inspiring Outcomes</h2>
-                    <p>We are honored to provide you top-notch quality content to make sure that your trust is
-                        gained for a lifetime.</p>
+                    <h2>Our Amazing Process That Drives Inspiring Outcomes
+                    </h2>
+                    <p> At Donald’s Book Publishing, we are committed to delivering top-quality content and services
+                        that earn your trust for a lifetime.
+                    </p>
 
                 </div>
             </div>
@@ -312,8 +317,8 @@
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt">
                             <h3>Publishing Experts </h3>
-                            <p class="list-scroll">Our team of publishing experts is well-versed in all platforms,
-                                including Amazon, and can ensure exceptional quality for your book, no matter the genre.
+                            <p class="list-scroll"> Our experienced team is skilled across all platforms, including
+                                Amazon, ensuring exceptional quality for your book, regardless of genre.
                             </p>
 
                         </div>
@@ -324,8 +329,8 @@
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
                             <h3>Personalized Feedback </h3>
-                            <p class="list-scroll">Submit your draft and instructions, and we’ll provide personalized
-                                Feedback to meet your expectations and improve your work.</p>
+                            <p class="list-scroll"> Submit your draft and instructions, and we’ll provide tailored
+                                feedback to meet your expectations and enhance your work</p>
 
                         </div>
                     </div>
@@ -334,11 +339,11 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Tailored Service </h3>
-                            <p class="list-scroll">We’ll assign an experienced agent to your project, considering your
-                                needs and developing a customized plan to publish your book on time. We’re committed to
-                                delivering excellent work and punctuality, which you won’t find with any cheap
-                                publishing services. </p>
+                            <h3>Tailored Service
+                            </h3>
+                            <p class="list-scroll"> An experienced agent will be assigned to your project, creating a
+                                customized plan to publish your book on time while addressing your unique needs.
+                            </p>
 
                         </div>
                     </div>
@@ -363,16 +368,16 @@
             </div>
             <div class="col-12 col-lg-8">
                 <div class="award-winning-wrap">
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/axiom.webp"
-                            class="img-fluid" alt="axiom"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/axiom.webp" class="img-fluid"
+                            alt="axiom"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/gold.webp" class="img-fluid"
                             alt="gold"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/finalist.webp"
                             class="img-fluid" alt="finalist"></div>
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/global.webp"
-                            class="img-fluid" alt="global"></div>
-                    <div class="award-winning-logo"><img src="nypublishers/assets/images/illum.webp"
-                            class="img-fluid" alt="illum"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/global.webp" class="img-fluid"
+                            alt="global"></div>
+                    <div class="award-winning-logo"><img src="nypublishers/assets/images/illum.webp" class="img-fluid"
+                            alt="illum"></div>
                     <div class="award-winning-logo"><img src="nypublishers/assets/images/moon.webp" class="img-fluid"
                             alt="moon"></div>
                 </div>
@@ -389,7 +394,7 @@
 
 <!-- samples -->
 <!-- samples -->
-<?php include 'partials/slider.php'; ?>  
+<?php include 'partials/slider.php'; ?>
 
 <!-- creative-ser -->
 <section id="creative-tab2" class="">
@@ -474,10 +479,11 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Submission of Manuscript and Requirements </h3>
-                            <p class="font-14">Send your manuscript and requirements to our agency for book publication,
-                                along with any other instructions. Our team will review it and share the instant quote
-                                to get the project started. </p>
+                            <h3 class="h2Heading">Board Books </h3>
+                            <p class="font-14">Perfect for infants, board books are made with sturdy, glossy pages that
+                                can handle chewing and curious hands. They focus on bright characters, simple themes,
+                                and gentle lessons.
+                            </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
@@ -497,11 +503,12 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Development of a Customized Plan </h3>
+                            <h3 class="h2Heading">Picture Books
+                            </h3>
                             <p class="font-14">
-                                Based on your needs, our experts will develop a tailored plan for publishing your book
-                                on Amazon. Whether you need the best marketing strategy for amazon or designing
-                                expertise for a book cover, our company will deliver you everything best.
+                                Designed for children ages 3–5, picture books offer more detailed stories as attention
+                                spans grow. Bright, expressive illustrations take the lead, with text that supports the
+                                visuals.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -519,10 +526,12 @@
                     style="background-size: cover !important; background:url('childrens-book/img/fiction/service1.jpg');">
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-1 col-md-6 text-white pr-md-0 pl-md-5 text-center text-md-left">
-                            <h3 class="h2Heading">Editing, Designing, and Formatting </h3>
+                            <h3 class="h2Heading">Folklore </h3>
                             <p class="font-14">
-                                Our professionals will take care of editing, designing, formatting, and creating a book
-                                cover to ensure your book is ready for publication.
+                                Folklore books help children understand different aspects of life. These stories
+                                encourage imagination and creativity while teaching lessons about the consequences of
+                                actions and choices.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -543,11 +552,11 @@
                     <div class="row py-5 align-items-center">
                         <div class="order-2 order-md-2 col-md-6 text-white text-center text-md-left"
                             style="margin-left: -40px;">
-                            <h3 class="h2Heading">Publication and Marketing </h3>
+                            <h3 class="h2Heading">Fairy Tales </h3>
                             <p class="font-14">
-                                We’ll publish your book on Amazon, and our top marketing experts will help promote it to
-                                reach a broader audience. With us, you don’t have to worry about the cost to self
-                                publish on amazon, as we provide multiple bundles and affordable packages.
+                                Fairy tales are designed for children ages 7 and above. These stories often feature
+                                familiar characters like giants, witches, and wizards, making them perfect for reading
+                                aloud and sparking imagination.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>

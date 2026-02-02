@@ -433,7 +433,7 @@
                 <div class="thumbnail review-box">
                     <div class="caption">
                         <h3 class="text-center review-heading">John S</h3>
-                        <p class="text-center review-text list-scroll">Working with NY Publishers was an incredible
+                        <p class="text-center review-text list-scroll">Working with Donalds book Publishers was an incredible
                             experience. They turned my manuscript into a masterpiece, and their marketing team
                             helped me reach a wider audience. I highly recommend them to any author who wants to
                             take their book to the next level." </p>
@@ -471,7 +471,7 @@
                 <div class="thumbnail review-box">
                     <div class="caption">
                         <h3 class="text-center review-heading">Maria C.</h3>
-                        <p class="text-center review-text">NY Publishers is the best in the business. They provided
+                        <p class="text-center review-text">Donalds book Publishers is the best in the business. They provided
                             me with a comprehensive publishing solution, from writing to marketing, and made the
                             entire process seamless. I'm thrilled with the results and would definitely work with
                             them again." </p>
@@ -510,7 +510,7 @@
                     <div class="caption">
                         <h3 class="text-center review-heading">David W.</h3>
                         <p class="text-center review-text">I've worked with several publishing companies in the
-                            past, but NY Publishers stands out for their exceptional quality and attention to
+                            past, but Donalds book Publishers stands out for their exceptional quality and attention to
                             detail. Their editors are top-notch, and their marketing strategies are highly
                             effective. I couldn't be happier with the outcome.
                         </p>
@@ -548,7 +548,7 @@
                 <div class="thumbnail review-box">
                     <div class="caption">
                         <h3 class="text-center review-heading">Jessica L.</h3>
-                        <p class="text-center review-text">NY Publishers helped me achieve my dream of becoming a
+                        <p class="text-center review-text">Donalds book Publishers helped me achieve my dream of becoming a
                             published author. They were with me every step of the way, providing valuable feedback
                             and support. I highly recommend their self publishing services to anyone who wants to
                             turn their manuscript into a bestseller."
@@ -588,7 +588,7 @@
                     <div class="caption">
                         <h3 class="text-center review-heading">Peter M.</h3>
                         <p class="text-center review-text list-scroll">I was blown away by the level of
-                            professionalism and expertise at NY Publishers. Their team of writers, editors, and
+                            professionalism and expertise at Donalds book Publishers. Their team of writers, editors, and
                             designers worked seamlessly to create a beautiful book that exceeded my expectations. I
                             can't thank them enough for their hard work and dedication.</p>
                         <ul class="list-group text-left">
@@ -626,7 +626,7 @@
                     <div class="caption">
 
                         <h3 class="text-center review-heading">Sarah R.</h3>
-                        <p class="text-center review-text">NY Publishers provided me with a stress-free publishing
+                        <p class="text-center review-text">Donalds book Publishers provided me with a stress-free publishing
                             experience. They handled everything from book design to marketing, allowing me to focus
                             on what I do best - writing. I'm grateful for their expertise and highly recommend them
                             to anyone who wants to publish a book.</p>

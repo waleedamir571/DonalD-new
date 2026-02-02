@@ -120,13 +120,11 @@
         <div class="row justify-content-md-center">
             <div class="col-md-4 p0">
                 <div class="abt-txts" style="padding-right: 127px;">
-                    <h5>About Us</h5>
+                    <h5>Donald's Book Publishing</h5>
                     <p>
-                        We’re a full-service book publishing company that offers end-to-end publishing solutions
-                        that
-                        are tailored to our client's needs. Our goal is to help authors achieve success in the
-                        literary
-                        sphere.
+                        Get your book published with the best book publishing services in USA. Trusted by authors for
+                        editing, design, and global distribution.
+
                     </p>
                 </div>
 
@@ -137,25 +135,26 @@
                 <div class="soc-txt txt-div">
                     <h5>Services</h5>
                     <ul style="list-style:none;">
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-writing">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-writing-services">Book
                                 Writing
                                 Services</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="ebook-writing">E-book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="ebook-writing-services">E-book
                                 Writing
                                 & Publishing</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-cover-design">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a
+                                href="book-cover-design-services">Book
                                 Cover
                                 Design</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="proofreading">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="proofreading-services">Book
                                 Proofreading & Editing</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-publishing">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-publishing-services">Book
                                 Publishing Services</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-marketing">Book
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="book-marketing-services">Book
                                 Marketing</a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="amazon-publishing">
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="amazon-publishing-services">
                                 Amazon
                                 Publishing </a></li>
-                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="children-book">
+                        <li><i class="fa fa-caret-right" aria-hidden="true"></i><a href="children-book-services">
                                 Childrens
                                 Book
                                 Publishing </a></li>
@@ -224,9 +223,9 @@
     color: #fff;
     padding: 0;
     margin: 0;">
-                    <li><a style="color:#fff;" href="terms-and-condition.php">Terms & Conditions</a></li>
+                    <li><a style="color:#fff;" href="terms-and-condition.php#">Terms & Conditions</a></li>
                     &nbsp;|&nbsp;
-                    <li><a style="color:#fff;" href="privacy-policy.php">Privacy Policy</a></li>
+                    <li><a style="color:#fff;" href="privacy-policy.php#">Privacy Policy</a></li>
                 </ul>
 
             </div>

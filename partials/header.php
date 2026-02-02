@@ -164,7 +164,7 @@
                                         <a class="dropdown-item" href="amazon-publishing-services">
                                             <i class="fas fa-book-open"></i><span> Amazon Publishing </span>
                                         </a>
-                                        <a class="dropdown-item bdr-rem" href="children-book">
+                                        <a class="dropdown-item bdr-rem" href="children-book-services">
                                             <i class="fas fa-book-open"></i><span> Childrens Book Publishing </span>
                                         </a>
                                     </div>

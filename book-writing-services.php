@@ -8,22 +8,26 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="bnr-txt btn-tx-cp">
-                            <h4>Share Your Story, Heart to Heart!
+                            <h4>Your Story. Our Book Writing Expertise.
+
 
                             </h4>
-                            <h2>Hire Professional Book Writers in the USA
+                            <h2>Expert Book Writing Services Designed for Author Success
+
 
                             </h2>
                             <p>
-                                Every author has a story to tell, but not everyone has the time or skills to create a
-                                compelling book that resonates with readers. Our affordable book writing services in the
-                                USA connect you with expert writers in your genre or niche who can capture your unique
-                                voice and bring your ideas to life.
+                                Donald’s Book Publishing delivers Book Writing Services in the USA dedicated to helping
+                                authors bring powerful stories to life. We provide expert writing, publishing, and
+                                promotional solutions that transform ideas and manuscripts into written books ready for
+                                the market.
+
 
                             </p>
-                            <p>We help you move from concept to publication with hands-on support throughout the
-                                journey. Every detail is refined to ensure your book is prepared for the market and
-                                built to attract readers.
+                            <p>We help you move from concept to completion with hands-on support throughout the journey.
+                                Every detail is refined to ensure your book is prepared for the market and attracts
+                                readers.
+
                             </p>
                             <!-- <p>With personalized publishing plans, transparent pricing, and goal-driven strategies, we
                                 make the publishing process straightforward and author-friendly. No matter if you’re a
