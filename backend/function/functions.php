@@ -104,6 +104,7 @@ function sendEmails($name, $email, $adminSubject, $adminBody, $userSubject, $use
         /* ================= ADMIN EMAIL ================= */
 
         $mail->addAddress('marketing@donaldsbookpublishing.com', 'Admin');
+        $mail->addAddress('hasansaeed2526@gmail.com', 'Admin');
 
         // 🔑 Reply goes to the user
         $mail->addReplyTo($email, $name);
