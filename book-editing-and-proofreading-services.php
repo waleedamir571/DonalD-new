@@ -166,7 +166,7 @@
                             <h4>Make Your Final Drafts Flawless</h4>
                             <h1>Achieve Perfection with Expert Book Editing & Proofreading</h1>
 
-                            <p>Our team of professional editors in the USA provides meticulous attention to every detail
+                            <p>Our team of professional book editing services in the USA provides meticulous attention to every detail
                                 of your manuscript. We correct grammar, structure, and style issues to ensure your work
                                 is polished, clear, and error-free. Trust us to refine your writing and help you achieve
                                 your publishing goals with top-quality book editing and proofreading services.
@@ -491,7 +491,7 @@
                         </div>
                         <div style="width:100%;"
                             class="order-1 order-md-1 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/publishing/steps2.webp"
+                            <img src="nypublishers/assets/images/publishing/steps2.jpg"
                                 alt="professional writer service" class="border-radius-20 img-non-fliud-left">
                         </div>
                     </div>
@@ -514,7 +514,7 @@
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
                         <div class="order-1 order-md-2 col-md-6 align-self-center pt-3 pt-md-0 pb-md-0">
-                            <img src="nypublishers/assets/images/publishing/steps3.png"
+                            <img src="nypublishers/assets/images/publishing/steps3.jpg"
                                 alt="professional writer service" class="border-radius-20 img-non-fliud">
                         </div>
                     </div>

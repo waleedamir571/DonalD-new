@@ -10,18 +10,16 @@
                     <div class="col-md-6">
                         <div class="bnr-txt ptop">
                             <h4>Your Story. Our Publishing Expertise.</h4>
-                            <h1 class="text-white"> <strong>USA-Based Publishers for Author Success</strong>
+                            <h1 class="text-white fs-55"> <strong>USA-Based Publishers for Author Success</strong>
                             </h1>
                             <p>
-                                Donald’s Book Publishing is a USA-based publishing company helping authors bring
-                                powerful stories to life. We offer expert writing, publishing, and promotion services
-                                that transform ideas into professionally published books ready for the market.
+                                Donald’s Book Publishing helps authors across the USA turn ideas into professional books
+                                with writing, publishing, and promotion services.
 
 
                             </p>
-                            <p>From concept to launch, we provide hands-on support, refine every detail, and deliver
-                                personalized plans, transparent pricing, and goal-driven strategies that make publishing
-                                simple, effective, and author-friendly.
+                            <p>We guide you through each step, focus on the small details, offer clear pricing, and make
+                                the publishing process easy to follow.
 
 
 
@@ -181,7 +179,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Donald’s Book Publishing — Where Your Story Comes to Life
+                <h2>Donald’s Book Publishing Where Your Story Comes to Life
 
                 </h2>
                 <br>
@@ -230,7 +228,7 @@
             <div class=" col-md-6 inner-tx-p">
                 <div class="inner-img-lp">
                     <!-- <img class="img-sec lazyload" data-src="../nypublishers/assets/images/sec55.webp"> -->
-                    <img class="img-sec lazyload" src="nypublishers/assets/images/sec55.webp" alt="">
+                    <img class="img-sec lazyload" src="nypublishers/assets/images/sec55.png" alt="">
                 </div>
             </div>
         </div>
@@ -248,7 +246,7 @@
         <div class="reviews-row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Publishing Experts Who Bring Your Book to Life</h2>
+                    <h2>Experts in Book Publishing for Authors</h2>
                     <p>Start your publishing journey with a team that guides you from idea to launch.
                     </p>
                 </div>
@@ -267,7 +265,7 @@
 
                             </p>
 
-                            <a href="book-writing/index.html" class="read-txt">Read More</a>
+                            <a href="book-writing-services" class="read-txt">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -285,7 +283,7 @@
 
                             </p>
 
-                            <a href="proofreading/index.html" class="read-txt">Read More</a>
+                            <a href="book-editing-and-proofreading-services" class="read-txt">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -301,7 +299,7 @@
                                 ready to reach readers worldwide.
                             </p>
 
-                            <a href="book-publishing/index.html" class="read-txt">Read More</a>
+                            <a href="book-publishing-services" class="read-txt">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -316,7 +314,7 @@
 
                             </p>
 
-                            <a href="book-marketing/index.html" class="read-txt">Read More</a>
+                            <a href="book-marketing-services" class="read-txt">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -372,12 +370,11 @@
                 <br>
                 <div class="inner-txt-p">
                     <p>
-                        As a trusted publishing company serving authors across the USA, we are committed to excellence
-                        at every stage of the publishing process. Whether you’re a seasoned author or writing your first
-                        book, our team is here to guide you every step of the way. We help turn your ideas into a
-                        polished, professionally published book that captivates readers and stands the test of time. We
-                        also specialize in photo book publishing, making us a complete, all-in-one publishing partner
-                        for writing, design, and publishing.
+                        We are a publishing company serving authors across the USA with a strong focus on quality and
+                        clarity. Our team supports authors from start to finish, including new writers and experienced
+                        authors. We help shape stories into professional books that readers enjoy for years. We also
+                        offer photo book publishing, giving authors one place for writing, design, and publishing
+                        support.
                     </p>
                     <!-- <ul>
 
@@ -404,7 +401,7 @@
             <div class=" col-md-6 inner-tx-p">
                 <div class="inner-img-lp">
                     <!-- <img class="img-sec2 lazyload" data-src="nypublishers/assets/images/sec44.jpg"> -->
-                    <img class="img-sec2 ls-is-cached lazyloaded" src="nypublishers/assets/images/sec44.jpg" alt="">
+                    <img class="img-sec2 ls-is-cached lazyloaded" src="nypublishers/assets/images/sec44.png" alt="">
                 </div>
             </div>
         </div>
@@ -433,7 +430,8 @@
                 <div class="thumbnail review-box">
                     <div class="caption">
                         <h3 class="text-center review-heading">John S</h3>
-                        <p class="text-center review-text list-scroll">Working with Donalds book Publishers was an incredible
+                        <p class="text-center review-text list-scroll">Working with Donalds Book Publishing was an
+                            incredible
                             experience. They turned my manuscript into a masterpiece, and their marketing team
                             helped me reach a wider audience. I highly recommend them to any author who wants to
                             take their book to the next level." </p>
@@ -471,7 +469,8 @@
                 <div class="thumbnail review-box">
                     <div class="caption">
                         <h3 class="text-center review-heading">Maria C.</h3>
-                        <p class="text-center review-text">Donalds book Publishers is the best in the business. They provided
+                        <p class="text-center review-text">Donalds Book Publishing is the best in the business. They
+                            provided
                             me with a comprehensive publishing solution, from writing to marketing, and made the
                             entire process seamless. I'm thrilled with the results and would definitely work with
                             them again." </p>
@@ -510,7 +509,7 @@
                     <div class="caption">
                         <h3 class="text-center review-heading">David W.</h3>
                         <p class="text-center review-text">I've worked with several publishing companies in the
-                            past, but Donalds book Publishers stands out for their exceptional quality and attention to
+                            past, but Donalds Book Publishing stands out for their exceptional quality and attention to
                             detail. Their editors are top-notch, and their marketing strategies are highly
                             effective. I couldn't be happier with the outcome.
                         </p>
@@ -548,7 +547,8 @@
                 <div class="thumbnail review-box">
                     <div class="caption">
                         <h3 class="text-center review-heading">Jessica L.</h3>
-                        <p class="text-center review-text">Donalds book Publishers helped me achieve my dream of becoming a
+                        <p class="text-center review-text">Donalds Book Publishing helped me achieve my dream of
+                            becoming a
                             published author. They were with me every step of the way, providing valuable feedback
                             and support. I highly recommend their self publishing services to anyone who wants to
                             turn their manuscript into a bestseller."
@@ -588,7 +588,8 @@
                     <div class="caption">
                         <h3 class="text-center review-heading">Peter M.</h3>
                         <p class="text-center review-text list-scroll">I was blown away by the level of
-                            professionalism and expertise at Donalds book Publishers. Their team of writers, editors, and
+                            professionalism and expertise at Donalds Book Publishing. Their team of writers, editors,
+                            and
                             designers worked seamlessly to create a beautiful book that exceeded my expectations. I
                             can't thank them enough for their hard work and dedication.</p>
                         <ul class="list-group text-left">
@@ -626,7 +627,8 @@
                     <div class="caption">
 
                         <h3 class="text-center review-heading">Sarah R.</h3>
-                        <p class="text-center review-text">Donalds book Publishers provided me with a stress-free publishing
+                        <p class="text-center review-text">Donalds Book Publishing provided me with a stress-free
+                            publishing
                             experience. They handled everything from book design to marketing, allowing me to focus
                             on what I do best - writing. I'm grateful for their expertise and highly recommend them
                             to anyone who wants to publish a book.</p>

@@ -229,17 +229,14 @@
                                 engage busy professionals, multitaskers, and even struggling readers.
 
                             </p>
-                            <p>- Inspire strong emotional responses in listeners<br>
-                                - Engage and connect with audiences across various professions
-                                <br>
-                                - Appeal to children’s emotional intelligence and curiosity
-                                <br>
-                                - Open access to a world of knowledge and possibilities
-                                <br>
-                                - Ensure your ideas are heard in today’s fast-paced media landscape
-
-
+                            <p>
+                                Inspire strong emotional responses in listeners,
+                                engage and connect with audiences across various professions,
+                                appeal to children’s emotional intelligence and curiosity,
+                                open access to a world of knowledge and possibilities,
+                                and ensure your ideas are heard in today’s fast-paced media landscape.
                             </p>
+
                         </div>
                         <div class="cta-btn btnres">
 

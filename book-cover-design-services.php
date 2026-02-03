@@ -137,7 +137,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Donald’s Book Publishers’ Eclectic & Creative Approach </h2>
+                    <h2>Donald’s Book Publishing Eclectic & Creative Approach </h2>
 
                 </div>
             </div>

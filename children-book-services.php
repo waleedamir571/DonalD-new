@@ -158,14 +158,17 @@
                         <div class="bnr-txt">
                             <h4>Children’s Book Publishing Services
                             </h4>
-                            <h2>Reach Global Market with Personalized Amazon Book Publishing Services </h2>
-                            <p class="para-line">We help you bring your stories to life for young readers, sparking
-                                their imagination and capturing their interest. With vibrant illustrations, high-quality
-                                printing, and engaging content on every page, your book will stand out and delight
-                                children.
+                            <h2>Publish Your Children’s Book Worldwide </h2>
+                            <p class="para-line">We help authors create children’s books that young readers enjoy and
+                                parents feel confident sharing. From colorful illustrations to clear printing and simple
+                                storytelling, we make sure each page keeps children interested and happy.
+
                             </p>
-                            <p class="para-line">Our affordable and accessible children’s book publishing services make
-                                it easy for authors of all backgrounds to share their stories with the next generation.
+                            <br>
+                            <p class="para-line">Our children’s book publishing services are affordable and open to
+                                authors everywhere. We support you throughout the process so your story can reach
+                                families and children across the world.
+
                             </p>
 
                         </div>
@@ -250,15 +253,18 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <h2>Move Your Story Fast with Amazon Publisher Services</h2>
+                <h2>Publish Your Children’s Book with Confidence
+                </h2>
                 <br>
                 <div class="inner-txt-p">
-                    <p> At Donald’s Book Publishing, we provide efficient and comprehensive Amazon publishing services
-                        for authors and aspiring writers. Our goal is to help you bring your story to readers quickly
-                        and professionally.
-                         </p>
-                    <p>With our complete suite of services, your book will not only meet the highest quality standards
-                        but also reach the readers it deserves.
+                    <p> At Donald’s Book Publishing, we help authors publish children’s books with care and attention.
+                        Our team supports you through the entire publishing process, making sure your book is easy to
+                        read, colorful, and suitable for young readers.
+
+                    </p>
+                    <p>With our complete children’s book publishing services, your book meets quality standards and
+                        reaches families, schools, and young readers across the USA.
+
                     </p>
                 </div>
                 <!-- <h2>Manuscript Editing and Proofreading </h2>
@@ -303,10 +309,12 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="write-txt">
-                    <h2>Our Amazing Process That Drives Inspiring Outcomes
+                    <h2>Our Simple Process for Children’s Book Publishing
+
                     </h2>
-                    <p> At Donald’s Book Publishing, we are committed to delivering top-quality content and services
-                        that earn your trust for a lifetime.
+                    <p> At Donald’s Book Publishing, we focus on quality work and long-term trust. Our goal is to help
+                        authors publish children’s books with care, clarity, and attention to detail.
+
                     </p>
 
                 </div>
@@ -316,9 +324,12 @@
                     <div class="ser-box ser1">
                         <div class="img-box img-ser1"></div>
                         <div class="ser-box-txt">
-                            <h3>Publishing Experts </h3>
-                            <p class="list-scroll"> Our experienced team is skilled across all platforms, including
-                                Amazon, ensuring exceptional quality for your book, regardless of genre.
+                            <h3>Children’s Book Specialists
+                            </h3>
+                            <p class="list-scroll"> Our team has experience working with children’s books across major
+                                platforms, including Amazon. We focus on age-appropriate content, clear layouts, and
+                                friendly presentation.
+
                             </p>
 
                         </div>
@@ -328,9 +339,11 @@
                     <div class="ser-box ser4">
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
-                            <h3>Personalized Feedback </h3>
-                            <p class="list-scroll"> Submit your draft and instructions, and we’ll provide tailored
-                                feedback to meet your expectations and enhance your work</p>
+                            <h3>Clear Feedback </h3>
+                            <p class="list-scroll"> You share your draft and instructions, and we review everything
+                                carefully. We provide clear suggestions to help improve your book while keeping your
+                                message intact.
+                            </p>
 
                         </div>
                     </div>
@@ -339,10 +352,11 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Tailored Service
+                            <h3>Personal Publishing Support
+
                             </h3>
-                            <p class="list-scroll"> An experienced agent will be assigned to your project, creating a
-                                customized plan to publish your book on time while addressing your unique needs.
+                            <p class="list-scroll"> A dedicated publishing expert works with you, plans the process, and
+                                makes sure your children’s book is completed on time and handled properly.
                             </p>
 
                         </div>
@@ -483,6 +497,8 @@
                             <p class="font-14">Perfect for infants, board books are made with sturdy, glossy pages that
                                 can handle chewing and curious hands. They focus on bright characters, simple themes,
                                 and gentle lessons.
+
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -509,6 +525,7 @@
                                 Designed for children ages 3–5, picture books offer more detailed stories as attention
                                 spans grow. Bright, expressive illustrations take the lead, with text that supports the
                                 visuals.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>
@@ -531,6 +548,7 @@
                                 Folklore books help children understand different aspects of life. These stories
                                 encourage imagination and creativity while teaching lessons about the consequences of
                                 actions and choices.
+
 
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
@@ -557,6 +575,7 @@
                                 Fairy tales are designed for children ages 7 and above. These stories often feature
                                 familiar characters like giants, witches, and wizards, making them perfect for reading
                                 aloud and sparking imagination.
+
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>
                         </div>

@@ -435,7 +435,7 @@
                             <h3 class="h2Heading">Thorough Reviewing, Editing & Proofreading</h3>
                             <p class="font-14">
                                 Our expert team meticulously reviews, edits, and proofreads your eBook to ensure it’s
-                                polished, professional, and completely error-free—meeting the highest industry
+                                polished, professional, and completely error-free meeting the highest industry
                                 standards.
 
                             </p>

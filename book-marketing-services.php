@@ -149,7 +149,7 @@
                     <div class="col-md-6">
                         <div class="bnr-txt btn-tx-cp">
                             <h4>Make Your Words Available Everywhere</h4>
-                            <h2>Book Marketing Services – Expand Your Reach and Impact </h2>
+                            <h2>Book Marketing Services  Expand Your Reach and Impact </h2>
                             <p class="para-line">Finishing your manuscript is just the first step toward success. That’s
                                 why we offer a full range of promotional services designed to boost your book’s
                                 visibility and connect you with your target audience. Take advantage of Donald’s Book
@@ -273,7 +273,7 @@
     </div>
 
 </section>
-<section id="writing-ser">
+<!-- <section id="writing-ser">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -329,7 +329,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <!-- landing-page-inner -->
 <!-- cta-1 -->
 
@@ -541,7 +541,7 @@
                                 and objectives for your marketing campaign.
                             </p>
                             <p class="font-14">We also review your target audience and any past marketing efforts to
-                                craft a strategy that truly works—something you won’t get from low-cost service
+                                craft a strategy that truly works something you won’t get from low-cost service
                                 providers.
                             </p>
                             <button class="btn btn-theme bg-theme-white mt-4 popupBtn">CONSULT AN EXPERT</button>

@@ -9,6 +9,10 @@ nav.navbar {
     padding: 0
 }
 
+.fs-55{
+        font-size: 55px !important;
+}
+
 a.terms {
     color: #fff !important;
     text-decoration: none;
@@ -891,16 +895,14 @@ a.dropdown-item.bdr-rem {
     margin-bottom: 10px
 }
 
-.bnr-txt h1,
-.bnr-txt h2 {
+.bnr-txt h1, .bnr-txt h2 {
     font-size: 43px;
     color: #fff;
     font-weight: 500;
     line-height: 1.1;
     position: relative;
-    z-index: 1
+    z-index: 1;
 }
-
 .bnr-txt h3 {
     font-size: 34px;
     color: #4a5874
@@ -4475,6 +4477,7 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
     padding: 19px;
     position: relative;
     border: 1px solid #dadada;
+    height: 26rem;
     margin-bottom: 30px
 }
 
@@ -4732,7 +4735,8 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
 }
 
 .book-covers .cover img {
-    width: 220px
+    width: 220px;
+    height: 20rem;
 }
 
 .floatbutton.active {
@@ -5259,8 +5263,8 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
 
 .bottomSec {
     background: #104976;
-    padding: 18px;
-    height: 110px
+    padding: 30px;
+    height: 110px;
 }
 
 .navbar-nav li.numberzz .topzz {
@@ -8086,7 +8090,7 @@ only screen and (min-resolution:2dppx) {
 .img-sec {
     width: 123%;
     position: absolute;
-    top: -43px;
+    top: 0px;
     left: 0
 }
 
@@ -8930,6 +8934,10 @@ only screen and (min-resolution:2dppx) {
         justify-content: center;
         grid-gap: 0;
     }
+
+    .fs-55 {
+    font-size: 34px !important;
+}
     .award-winning-wrap .award-winning-logo {
         margin: 0 8px 10px;
     }

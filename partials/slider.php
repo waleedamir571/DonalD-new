@@ -5,7 +5,7 @@
                 <div class="col-md-12">
                     <div class="sample-txt">
                         <h2><b>Our Work</b></h2>
-                        <p>Our NY Publishers, our company is always happy to share our achievements. Review some of our
+                        <p>Our Donalds Book Publishing, our company is always happy to share our achievements. Review some of our
                             projects that can reflect our commitment to your project. </p>
                     </div>
                 </div>

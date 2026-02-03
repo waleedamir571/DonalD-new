@@ -188,7 +188,7 @@
                     <div class="ser-box ser4">
                         <div class="img-box img-ser2"></div>
                         <div class="ser-box-txt">
-                            <h3>Tailored Support at Every Stage
+                            <h3>Tailored Support
                             </h3>
                             <p class="list-scroll">
                                 Your book deserves focused attention. We provide personalized publishing support by
@@ -204,7 +204,7 @@
                     <div class="ser-box ser2">
                         <div class="img-box img-ser3"></div>
                         <div class="ser-box-txt">
-                            <h3>Clear Communication That Matters
+                            <h3>Clear Communication 
                             </h3>
                             <p class="list-scroll">
 
