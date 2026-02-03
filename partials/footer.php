@@ -212,6 +212,8 @@
                                 style=" padding: 2px; color:#fff;" class="fa fa-facebook"></span></a>
                         <a href="https://www.instagram.com/donaldsbookpublishing/"><span
                                 style="padding: 2px; color:#fff;" class="fa fa-instagram"></span></a>
+                                  <a href="https://www.instagram.com/donaldsbookpublishing/"><span
+                                style="padding: 2px; color:#fff;" class="fa fa-linkedin"></span></a>
                         <!--<a href="javascript:;"><span style="padding: 2px; color:#fff;" class="fab fa-linkedin-in"></span></a>-->
                         <!-- <a><span style="padding: 2px; color:#fff;" class="fa fa-twitter"></span></a> -->
                 </ul>
@@ -223,9 +225,9 @@
     color: #fff;
     padding: 0;
     margin: 0;">
-                    <li><a style="color:#fff;" href="terms-and-condition.php#">Terms & Conditions</a></li>
+                    <li><a class="terms"  href="terms-and-condition.php">Terms & Conditions</a></li>
                     &nbsp;|&nbsp;
-                    <li><a style="color:#fff;" href="privacy-policy.php#">Privacy Policy</a></li>
+                    <li><a class="terms" href="privacy-policy">Privacy Policy</a></li>
                 </ul>
 
             </div>
@@ -267,7 +269,7 @@
     </div>
 </section>
 
-<section id="popupform1Lead" class="popup-form"> <a href="javascript:;" title="" class="close"></a>
+<!-- <section id="popupform1Lead" class="popup-form"> <a href="javascript:;" title="" class="close"></a>
     <div class="formcontainer">
         <div class="banner-r">
             <div class="banner-inner-tl">
@@ -311,7 +313,7 @@
                             </optgroup>
 
                         </select>
-                        <!-- <input name="services" class="form-control" type="text" placeholder="Select Services"> -->
+                      
                     </div>
                     <div class="col-lg agree-two">
                         <input name="check" type="checkbox" id="test2">
@@ -319,7 +321,7 @@
                             the <a href="privacy-policy/index.html">Privacy Policy.</a> </label>
                     </div>
                     <div class="col-lg bnr-form-btn">
-                        <!-- <input type="submit" class="btn form-btn" value="submit" /> -->
+                        
                         <input type="submit" class="btn form-btn" value="Submit">
                         <p>This Offer is Valid For <strong>Only This Week.</strong></p>
 
@@ -331,7 +333,7 @@
     <div class="customalert"
         style="background: rgb(255, 255, 255); color: red; text-align: center; font-size: 16px; width: 100%; margin: 10px 0px 0px; padding: 10px; float: left; display: none">
     </div>
-</section>
+</section> -->
 
 
 
@@ -867,6 +869,7 @@
     function removeLoading() {
         if (isloading) {
             $("head").append(`
+            <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/jquery.fancybox.css">
         <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/jquery.fancybox.min.css">
         <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/slick.css">
         <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/slick-theme.css">
@@ -874,9 +877,9 @@
         <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/owl.carousel.min.css">
         <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/popup.css">
         <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/popup-custom.css">
-        <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/jquery.fancybox.css">
+        
         <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <script src="nypublishers/assets/js/functions.js"><\/script>
+        <script defer src="nypublishers/assets/js/functions.js"><\/script>
 `)
 
             $('.myLazy').each(function () {
@@ -1015,6 +1018,9 @@
     integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
     data-cf-beacon='{"version":"2024.11.0","token":"e5019ffe64604b2897a540d59fd72a15","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}'
     crossorigin="anonymous"></script> -->
+
+
+    
 </body>
 
 

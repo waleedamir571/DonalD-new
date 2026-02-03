@@ -9,6 +9,11 @@ nav.navbar {
     padding: 0
 }
 
+a.terms {
+    color: #fff !important;
+    text-decoration: none;
+}
+
 #banner,
 .banner-bcd {
     background-size: cover;
@@ -8681,8 +8686,8 @@ only screen and (min-resolution:2dppx) {
         font-size: 18px
     }
 
-    .bnr-txt h1 {
-        font-size: 40px
+       .bnr-txt h1 {
+        font-size: 33px;
     }
 
     #banner.home_banner {
@@ -8699,6 +8704,14 @@ only screen and (min-resolution:2dppx) {
     .font-14 {
         margin: 10px 0 0
     }
+
+    .navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler:focus-visible {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
 
     .btn-theme {
         margin: 10px 0 20px
@@ -8752,6 +8765,10 @@ only screen and (min-resolution:2dppx) {
         font-size: 18px;
         padding: 0 10px
     }
+
+    .logo-area img {
+    width: 125px;
+}
 
     .h2Heading {
         font-size: 35px;

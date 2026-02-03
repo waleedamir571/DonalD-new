@@ -1,8 +1,40 @@
 <?php include 'partials/header.php'; ?>
+
+<style>
+    .policypg  {
+        text-align: center !important;
+        padding-bottom: 20px !important;
+        margin-top: 38px !important;
+    }
+
+    .main-para {
+        color: #666666;
+        display: inline-block;
+        font-size: 18px;
+        line-height: 1.4;
+        margin: 0px;
+        padding: 0 0 10px 0;
+    }
+
+    .policypg h3 {
+        font-weight: 700;
+        font-size: 24px;
+    }
+
+    .policyg p {
+
+        font-weight: 400;
+        line-height: 18px;
+        padding: 0 0 20px;
+        margin: 0px;
+
+
+    }
+</style>
     <!-- header-end -->
     
     <!-- banner-start -->
-    <section id="banner" class="banneroad01 termsand for-mobile-ress">
+    <section id="banner" class="banneroad01 termsand for-mobile-ress ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -76,9 +108,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 center  mtpx-50">
-                    <h2 class="main-heading">Terms & Conditions</h2>
-                    <p class="main-para">The following terms and conditions apply to projects undertaken by
-                        www.nypublishers.co</p>
+                    <h2 class="policypg ">Terms & Conditions</h2>
+                   
                 </div>
             </div>
             <div class="row">
@@ -130,8 +161,8 @@
                     <br>
 
                     <p>It is important that you carefully read and understand the refund policies in order to have full
-                        knowledge of the privileges and limitations governed by New York Publishers Policies. We offer
-                        refunds only in special cases and specified conditions, detailed as under: <br><br> The New York
+                        knowledge of the privileges and limitations governed by Donalds Book Publishers Policies. We offer
+                        refunds only in special cases and specified conditions, detailed as under: <br><br> The Donalds Book
                         Publishers offers a 100% Refund on all its services, however, it is not an unconditional 100%
                         refund and certain conditions still apply. <br><br>The American Book Publishers Refund Policy
                         will be Void if; </p>

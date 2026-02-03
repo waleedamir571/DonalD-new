@@ -88,18 +88,7 @@ switch ($functions) {
     $keywords = "Donald’s Book Publishing disclaimer, website disclaimer USA, content liability notice, legal disclaimer policy, publishing website disclaimer, limitations of liability ";
 
     break;
-  case "terms-and-conditions.php";
-    $title_name = "Terms & Conditions | Donald’s Book Publishing – User Agreement";
-    $description = "Review the Terms & Conditions for using Donald’s Book Publishing. Learn about user responsibilities, service terms, copyright policies, and legal guidelines.";
-    $keywords = "Donald’s Book Publishing terms and conditions, user agreement, service terms USA, website terms, legal terms for publishing, content usage policy ";
-
-    break;
-  case "privacy-policy.php";
-    $title_name = "Privacy Policy | Donald’s Book Publishing – Your Data, Our Responsibility";
-    $description = "Read the Privacy Policy of Donald’s Book Publishing to understand how we collect, use, and protect your personal information when you use our services.";
-    $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
-
-    break;
+  
   case "web-content-writing-service.php";
     $title_name = "Web Content Writing Services in the USA | Donald’s Book Publishing";
     $description = "Get high-quality web content writing services in the USA. SEO-optimized, compelling, and conversion-driven content tailored to your business needs.";
@@ -242,6 +231,36 @@ Donald’s Book Publishing supports authors every step of the way";
     $title_name = " Donald’s Book Publishing | Children’s Book Services";
     $description = "Bring your children’s stories to life with Donald’s Book Publishing—complete services from writing, illustration, editing, to publishing.";
     $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+
+    break;
+    case "terms-and-condition.php";
+    $title_name = "Terms & Conditions | Donald’s Book Publishing – User Agreement";
+    $description = "Review the Terms & Conditions for using Donald’s Book Publishing. Learn about user responsibilities, service terms, copyright policies, and legal guidelines.";
+    $keywords = "Donald’s Book Publishing terms and conditions, user agreement, service terms USA, website terms, legal terms for publishing, content usage policy ";
+
+    break;
+  case "privacy-policy.php";
+    $title_name = "Privacy Policy | Donald’s Book Publishing – Your Data, Our Responsibility";
+    $description = "Read the Privacy Policy of Donald’s Book Publishing to understand how we collect, use, and protect your personal information when you use our services.";
+    $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
+
+    break;
+    case "testimonials.php";
+    $title_name = "testimonials | Donald’s Book Publishing – ";
+    $description = "testimonials";
+    $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
+
+    break;
+    case "portfolio.php";
+    $title_name = "portfolio | Donald’s Book Publishing – ";
+    $description = "portfolio";
+    $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
+
+    break;
+     case "portfolio.php";
+    $title_name = "portfolio | Donald’s Book Publishing – ";
+    $description = "portfolio";
+    $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
 
     break;
 

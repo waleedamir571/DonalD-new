@@ -88,6 +88,22 @@
     <!-- End of donaldspublishing Zendesk Widget script -->
 </head>
 
+<!-- <script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".liveChat").forEach(function (btn) {
+        btn.addEventListener("click", function (e) {
+            e.preventDefault();
+
+            if (window.zE) {
+                zE('messenger', 'open');
+            } else {
+                console.warn("Zendesk not loaded yet");
+            }
+        });
+    });
+});
+</script> -->
+
 
 <body class="">
 
