@@ -8,7 +8,7 @@
 
 <head>
  <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
      <meta property="og:type" content="website" />
     <meta property="og:title" content="Top Book Publishing Company in USA | Donald’s Book Publishing" />
@@ -78,6 +78,17 @@
                 align-items: flex-start;
                 justify-content: center;
             }
+              .cta-btn.btnres {
+            margin-bottom: 0px;
+        }
+
+        .form-banner {
+            border-radius: 38px;
+            padding: 2rem;
+            text-align: center;
+            left: 0px;
+            top: 0px;
+        }
         }
     </style>
 

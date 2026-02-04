@@ -1,3 +1,14 @@
+<style>
+.form-error {
+    color: white;
+    font-size: 14px;
+    margin-top: 6px;
+    margin-left: -20px;
+    text-align: justify;
+}
+</style>
+
+
 <section id="contact-sec">
     <div class="container">
         <div class="row">
@@ -785,25 +796,25 @@
             <ul>
                 <li>
                     <input type="text" class="required" placeholder="Full Name *" name="name" aria-required="true"
-                        required="">
+                        required>
                 </li>
 
                 <li>
                     <input type="email" class="required email" placeholder="Email Address *" name="email"
-                        aria-required="true" required="">
+                        aria-required="true" required>
                 </li>
 
                 <li>
                     <input type="text" class="required number" minlength="10" placeholder="Phone No. *" name="phone"
-                        aria-required="true" required="">
+                        aria-required="true" required>
                 </li>
 
                 <li>
                     <textarea name="brief" class="required" placeholder="Enter a brief description about your book"
-                        aria-required="true" required=""></textarea>
+                        aria-required="true" required></textarea>
                 </li>
                 <li>
-                    <input type="submit" value="Submit">
+                  <a href="">  <input type="submit" value="Submit"></a>
                 </li>
 
             </ul>
@@ -811,6 +822,9 @@
         <button data-fancybox-close="" class="fancybox-close-small"></button>
     </div>
 </div>
+
+
+
 <!-- <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script> -->
 <script>
     // Example starter JavaScript for disabling form submissions if there are invalid fields
@@ -1014,11 +1028,71 @@
         document.getElementById('anotherDiv').style.display = 'block';
     }
 </script>
-<!-- <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015"
-    integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ=="
-    data-cf-beacon='{"version":"2024.11.0","token":"e5019ffe64604b2897a540d59fd72a15","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}'
-    crossorigin="anonymous"></script> -->
 
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    var form = document.querySelector(".validate-popupform1");
+
+    form.addEventListener("submit", function (e) {
+
+        // pehle saare errors hata do
+        form.querySelectorAll(".form-error").forEach(function (el) {
+            el.remove();
+        });
+
+        var valid = true;
+
+        var name  = form.querySelector('input[name="name"]');
+        var email = form.querySelector('input[name="email"]');
+        var phone = form.querySelector('input[name="phone"]');
+        var brief = form.querySelector('textarea[name="brief"]');
+
+        // helper function
+        function showError(field, message) {
+            var error = document.createElement("div");
+            error.className = "form-error";
+            error.innerText = message;
+            field.parentNode.appendChild(error);
+            valid = false;
+        }
+
+        // Name
+        if (name.value.trim() === "") {
+            showError(name, "Please fill this field");
+        }
+
+        // Email
+        if (email.value.trim() === "") {
+            showError(email, "Please fill this field");
+        } else {
+            var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailPattern.test(email.value.trim())) {
+                showError(email, "Please enter a valid email address");
+            }
+        }
+
+        // Phone
+        if (phone.value.trim() === "") {
+            showError(phone, "Please fill this field");
+        } else if (phone.value.length < 10 || isNaN(phone.value)) {
+            showError(phone, "Phone number must be at least 10 digits");
+        }
+
+        // Brief
+        if (brief.value.trim() === "") {
+            showError(brief, "Please fill this field");
+        }
+
+        // agar koi error hai → submit band
+        if (!valid) {
+            e.preventDefault();
+        }
+    });
+
+});
+</script>
 
     
 </body>

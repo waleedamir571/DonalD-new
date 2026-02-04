@@ -9,8 +9,8 @@ nav.navbar {
     padding: 0
 }
 
-.fs-55{
-        font-size: 55px !important;
+.fs-55 {
+    font-size: 55px !important;
 }
 
 a.terms {
@@ -50,7 +50,8 @@ header {
 #pricing-tab tr.inner-th th {
     border-right: 1px solid #dedde4
 }
-.black{
+
+.black {
     color: black !important;
 }
 
@@ -895,7 +896,8 @@ a.dropdown-item.bdr-rem {
     margin-bottom: 10px
 }
 
-.bnr-txt h1, .bnr-txt h2 {
+.bnr-txt h1,
+.bnr-txt h2 {
     font-size: 43px;
     color: #fff;
     font-weight: 500;
@@ -903,6 +905,7 @@ a.dropdown-item.bdr-rem {
     position: relative;
     z-index: 1;
 }
+
 .bnr-txt h3 {
     font-size: 34px;
     color: #4a5874
@@ -1890,7 +1893,8 @@ tr.inner-th td {
     padding-top: 30px
 }
 
-#contact_form select, #form-sec select {
+#contact_form select,
+#form-sec select {
     width: 100%;
     padding: 5px 30px 5px 10px;
     border: 1px solid #ced4da;
@@ -1899,6 +1903,7 @@ tr.inner-th td {
     position: relative;
     height: 36px;
 }
+
 #m-footer ul li i {
     color: #fff;
     padding-right: 8px
@@ -3494,8 +3499,36 @@ div#Mymodal {
         font-size: 26px
     }
 
-    .ser-img-box {
-        float: none
+   .ser-img-box {
+        float: none !important;
+        display: block !important;
+        
+        /* Force width constraints */
+        width: 100vw !important;
+        max-width: 100% !important;
+        min-width: 0 !important;
+        
+        /* Box model reset */
+        box-sizing: border-box !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        border: none !important;
+        
+        /* Prevent any transforms */
+        transform: none !important;
+        -webkit-transform: none !important;
+        
+        /* Ensure proper positioning */
+        position: relative !important;
+        left: 0 !important;
+        right: 0 !important;
+    }
+    
+    /* If it contains images */
+    .ser-img-box img {
+        max-width: 100% !important;
+        height: auto !important;
+        display: block !important;
     }
 
     #writing-ser:after {
@@ -3742,21 +3775,26 @@ div#Mymodal {
         min-height: 150px;
         margin-top: 0px;
     }
-    .ser-box-txt p{
+
+    .ser-box-txt p {
         height: 130px;
     }
-    .ser-img-box:hover .read-txt{
+
+    .ser-img-box:hover .read-txt {
         display: none;
     }
+
     .ser-img-box:hover {
         background: #eaeaea;
         box-shadow: none;
         border-radius: 0;
         transition: none;
     }
-    .ser-box:before{
+
+    .ser-box:before {
         display: none;
     }
+
     .sample-tab .nav-tabs .nav-item.show .sample-tab .nav-link,
     .sample-tab .nav-tabs .nav-link,
     .sample-tab .nav-tabs .nav-link.active,
@@ -5088,7 +5126,7 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
         left: 110px !important
     }
 
-    .form-banner{
+    .form-banner {
         width: 100% !important;
     }
 
@@ -5105,35 +5143,46 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
         width: 50%
     }
 }
+
 @media only screen and (max-width: 390px) and (min-width: 0px) {
     .form-banner {
         width: 100% !important;
     }
 }
+
 @media only screen and (max-width:769px) and (min-width:0px) {
 
     .floatbutton,
-    .icon-head{
+    .icon-head {
         display: none
     }
-    .bnr-txt h4{
+
+    .bnr-txt h4 {
         font-size: 20px;
         padding: 1px;
     }
-    .for-mobile-ress{
+
+    .for-mobile-ress {
         height: 0 !important;
         text-align: center;
     }
-    #banner.banneroad01.bwss,.banneroad01.ebkwriting,.banner-bcd,.banner-bi{
-        height: 155vh !important;
+
+    /* #banner.banneroad01.bwss,
+    .banneroad01.ebkwriting,
+    .banner-bcd,
+    .banner-bi {
+        height: 145vh !important;
     }
-    .home_banner{
-        height: 155vh !important;
-    }
+
+    .home_banner {
+        height: 120vh !important;
+    } */
+
     .form-banner {
         border-radius: 38px !important;
         left: -2px !important;
     }
+
     .book-covers {
         width: 100%
     }
@@ -5146,7 +5195,7 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
     .book-covers .cover img {
         margin-left: 50px;
         width: 90%;
-        height: 460px
+        height: 400px
     }
 
     .link li {
@@ -8690,7 +8739,7 @@ only screen and (min-resolution:2dppx) {
         font-size: 18px
     }
 
-       .bnr-txt h1 {
+    .bnr-txt h1 {
         font-size: 33px;
     }
 
@@ -8705,16 +8754,16 @@ only screen and (min-resolution:2dppx) {
 }
 
 @media(max-width:767px) {
-    .font-14 {
-        margin: 10px 0 0
+       .font-14 {
+        margin: 10px 14px 4px;
     }
 
     .navbar-toggler:focus,
-.navbar-toggler:active,
-.navbar-toggler:focus-visible {
-    outline: none !important;
-    box-shadow: none !important;
-}
+    .navbar-toggler:active,
+    .navbar-toggler:focus-visible {
+        outline: none !important;
+        box-shadow: none !important;
+    }
 
 
     .btn-theme {
@@ -8757,7 +8806,8 @@ only screen and (min-resolution:2dppx) {
     .trust_imgg {
         display: none
     }
-    .listsec .wrap ul{
+
+    .listsec .wrap ul {
         display: flex;
         flex-wrap: wrap;
         padding: 0;
@@ -8765,18 +8815,15 @@ only screen and (min-resolution:2dppx) {
 }
 
 @media(max-width:425px) {
-    .font-14 {
-        font-size: 18px;
-        padding: 0 10px
-    }
+
 
     .logo-area img {
-    width: 125px;
-}
+        width: 125px;
+    }
 
     .h2Heading {
-        font-size: 35px;
-        padding: 0 7px
+        font-size: 26px;
+        padding: 10px 0px;
     }
 
     .btnres {
@@ -8787,9 +8834,9 @@ only screen and (min-resolution:2dppx) {
         align-items: flex-start
     }
 
-    section {
+    /* section {
         height: 100% !important
-    }
+    } */
 
     .navbar-expand-lg .navbar-collapse {
         width: 300px
@@ -8911,44 +8958,139 @@ only screen and (min-resolution:2dppx) {
     opacity: 1;
     transition: 1s
 }
+
 .award-winning-wrap {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     display: grid;
 }
+
 .award-winning-logo {
-  margin-left: 32px;
+    margin-left: 32px;
 }
+
 .img-fluid {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
+
 .inner-hd-sm {
     font-size: 30px;
     color: #0c4976 !important;
     font-weight: 600;
 }
+
 @media only screen and (min-width: 300px) and (max-width: 575px) {
-     .award-winning-wrap {
+
+    .btn-theme
+
+ {
+    font-size: 14px !important;
+ 
+}
+    .form-banner {
+    text-align: center;
+    background: #fff;
+    padding: 30px 26px 13px;
+    position: relative;
+    border-radius: 5px;
+    margin: 0;
+    width: 100%;
+    display: inline-block;
+    top: 23px;
+    left: 150px
+}
+
+    .award-winning-wrap {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         grid-gap: 0;
     }
+    .custom-ban-form {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+     #banner.banneroad01.bwss,
+    .banneroad01.ebkwriting,
+    .banner-bcd,
+    .banner-bi {
+        height: auto !important;
+    }
+    #banner {
+    margin-top: 70px;
+ 
+}
+
+#header {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+    height: 110px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+#banner.banneroad01.bwss, #banner.banneroad01.ebkwriting {
+    margin-top: 70px;
+}
+
+    .home_banner {
+        height: auto !important;
+    }
+
+      /* #banner.banneroad01.bwss,
+    .banneroad01.ebkwriting,
+    .banner-bcd,
+    .banner-bi {
+        min-height: calc(var(--vh, 1vh) * 100);
+    } */
+
+    .write-main-div {
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.write-txt {
+    margin: 0 auto;
+    padding-top: 0px;
+}
+        .ser-box-txt p {
+        height: auto !important;
+    }
+    .ser-box {
+    margin: 0 auto;
+    padding: 0px 0;
+}
+
+    #lp-writing
+
+ {
+    padding: 30px 0 40px;
+}
+
+
 
     .fs-55 {
-    font-size: 34px !important;
-}
+        font-size: 34px !important;
+    }
+
     .award-winning-wrap .award-winning-logo {
         margin: 0 8px 10px;
     }
+
     .award-winning-wrap .award-winning-logo img {
         width: 100px;
         margin: 0;
     }
+
     .inner-hd-sm {
         font-size: 25px;
         text-align: center;
         margin-bottom: 24px;
     }
-        
+
 }
