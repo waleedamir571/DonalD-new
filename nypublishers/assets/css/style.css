@@ -5093,7 +5093,8 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
 
 .top-slider img {
     display: inline-block;
-    width: 65%
+    width: 65%;
+    height: 52px;
 }
 
 @media only screen and (max-width:375px) and (min-width:0px) {
@@ -5209,10 +5210,10 @@ body .web-pckgs .home-packg-box1.home-packg-box-s1 {
         width: 60%
     }
 
-    .top-slider img {
+    /* .top-slider img {
         width: 60%;
         margin-left: 25px
-    }
+    } */
 
     .intl-tel-input {
         width: 100%;
@@ -8979,7 +8980,37 @@ only screen and (min-resolution:2dppx) {
     font-weight: 600;
 }
 
+
+
 @media only screen and (min-width: 300px) and (max-width: 575px) {
+    .h2Heading {
+    font-weight: 500;
+    text-shadow: 1px 0 0 #000;
+    font-size: 32px;
+}
+
+.write-main-div {
+    justify-content: center;
+    margin-top: 0px;
+}
+
+         .top-slider img {
+        width: 75%;
+        margin-left: 25px;
+        height: 52px;
+        margin-top: 5px;
+    }
+
+        .bottomSec {
+        background: #104976;
+        /* padding-top: 10px; */
+        /* padding-bottom: 10px; */
+        height: auto;
+        /* display: none; */
+        padding: 15px;
+        /* margin-left: 0px; */
+        height: auto;
+    }
 
     .btn-theme
 
@@ -9000,7 +9031,7 @@ only screen and (min-resolution:2dppx) {
     left: 150px
 }
 
-    .award-winning-wrap {
+.award-winning-wrap {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -9051,7 +9082,7 @@ only screen and (min-resolution:2dppx) {
 
     .write-main-div {
     justify-content: center;
-    margin-top: 0px;
+    /* margin-top: 0px; */
 }
 
 .write-txt {

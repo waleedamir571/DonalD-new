@@ -176,57 +176,7 @@
     </div>
 </section>
 <!-- banner-end -->
-<div class="bottomSec">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <ul class="top-slider">
-                    <li>
-
-                        <img src="assets/images/cl-1.png" alt="">
-                    </li>
-                    <li>
-
-                        <img src="assets/images/cl-2.png" alt="">
-                    </li>
-                    <li>
-
-                        <img src="assets/images/cl-3.png" alt="">
-                    </li>
-                    <li>
-                        <img src="assets/images/cl-4.png" alt="">
-                    </li>
-                    <li>
-
-                        <img src="assets/images/cl-5.png" alt="">
-                    </li>
-
-                    <li>
-
-                        <img src="assets/images/cl-6.png" alt="">
-                    </li>
-                    <li>
-
-                        <img src="assets/images/cl-7.png" alt="">
-                    </li>
-                    <!--<li>-->
-
-                    <!--   <img  src="assets/images/cl-8.png" alt="">-->
-                    <!--</li>-->
-                    <li>
-                        <img src="assets/images/cl-9.png" alt="">
-                    </li>
-                    <li>
-
-                        <img src="assets/images/cl-10.png" alt="">
-                    </li>
-
-
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include 'partials/bottomSec.php'; ?>
 <!-- form-sec -->
 <!-- form-sec -->
 <!-- form-sec -->
