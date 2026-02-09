@@ -137,6 +137,10 @@ p {
     font-weight: 600
 }
 
+.inner-txt-p a {
+    color: #8f9cb5;
+}
+
 #m-footer a,
 #m-footer ul li:hover .fa-caret-right,
 #popupformLead .banner-r h4,
@@ -169,7 +173,8 @@ p {
 
 body {
     scroll-behavior: smooth;
-    overflow-x: hidden !important
+    overflow-x: hidden !important;
+    width: 100%;
 }
 
 #Mymodal button.close:focus,
@@ -721,17 +726,14 @@ a.dropdown-item.bdr-rem {
     width: 100%
 }
 
-#banner.banneroad01,
-.banner-bi,
-.banneroad01-,
-.banneroad01-au,
-.banneroad01-bpp,
-.banneroad01bms {
+#banner.banneroad01, .banner-bi, .banneroad01-, .banneroad01-au, .banneroad01-bpp, .banneroad01bms
+
+ {
     height: 600px;
     margin-top: 100px;
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%
+    width: 100%;
 }
 
 #banner.banneroad01 {
@@ -1105,10 +1107,10 @@ a.cta-btn-3 {
 }
 
 .ser-box:before {
-    background: url(../images/ser-before.png) 100%/cover;
-    width: 31px;
-    height: 52px;
-    left: 20px
+    background: url(../images/ser-before.png) 100% / cover;
+    width: 25px;
+    height: 41px;
+    left: 25px;
 }
 
 .ser-box:after {
@@ -2098,7 +2100,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-size: 12px
+    font-size: 15px;
 }
 
 .contact-box {
@@ -3519,7 +3521,7 @@ div#Mymodal {
         -webkit-transform: none !important;
         
         /* Ensure proper positioning */
-        position: relative !important;
+        position: static !important;
         left: 0 !important;
         right: 0 !important;
     }
@@ -8980,6 +8982,53 @@ only screen and (min-resolution:2dppx) {
     font-weight: 600;
 }
 
+.none{
+    display: block;
+}
+
+/* span.fa.fa-facebook {
+    font-size: 25px;
+} */
+
+/* span.fa.fa-facebook {
+    font-size: 20px;
+}
+span.fa.fa-instagram {
+    font-size: 20px;
+}
+
+span.fa.fa-linkedin {
+    font-size: 20px;
+} */
+.terms {
+    font-size: 18px;
+    /* gap: 13px; */
+  
+}
+.social-icons {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.social-icons li a {
+    display: inline-block;
+    margin-right: 15px; /* 👈 gap */
+    color: #fff;
+    font-size: 22px;
+}
+
+#banner.banneroad01, .banner-bi, .banneroad01-, .banneroad01-au, .banneroad01-bpp, .banneroad01bms {
+    height: 600px;
+    margin-top: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+select.classic {
+    outline: none;
+}
 
 
 @media only screen and (min-width: 300px) and (max-width: 575px) {
@@ -8987,6 +9036,74 @@ only screen and (min-resolution:2dppx) {
     font-weight: 500;
     text-shadow: 1px 0 0 #000;
     font-size: 32px;
+}
+
+.banneroad01, .banner-bi, .banneroad01-, .banneroad01-au, .banneroad01-bpp, .banneroad01bms
+
+ {
+    height: 600px;
+    margin-top: 75px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.banneroad01, .banner-bi, .banneroad01-, .banneroad01-au, .banneroad01-bpp, .banneroad01bms {
+    height: 600px;
+    margin-top: 75px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.social-icons {
+    list-style: none;
+    display: block;
+    padding: 10px;
+    margin: 0;
+}
+.banneroad01.portfolio {
+    margin-top: 100px;
+    background: url(../images/portfolio.png) 0 0 / cover no-repeat;
+    height: auto;
+    padding-bottom: 150px;
+  
+    background-size: 100% 100%;
+    height: 200px !important;
+}
+
+   .banneroad01.about, .banneroad01.testiban {
+        margin-top: 75px;
+        background-repeat: no-repeat;
+        height: auto;
+        padding-bottom: 150px;
+        height: auto;
+        padding-bottom: 150px;
+       
+        background-size: 100% 100%;
+        height: 200px !important;
+    }
+        .banner02, .banner03, .banner04 {
+          margin-top: 75px;
+        background-repeat: no-repeat;
+        height: auto;
+        padding-bottom: 150px;
+        height: auto;
+        padding-bottom: 150px;
+       
+        background-size: 100% 100%;
+        height: 200px !important;
+    }
+
+    /* #banner.banneroad01.portfolio {
+    margin-top: 100px;
+    background: url(../images/portfolio.png) 0 0 / cover no-repeat;
+    height: auto;
+    padding-bottom: 180px;
+} */
+
+.none{
+    display: none !important;
 }
 
 .write-main-div {
@@ -9038,7 +9155,7 @@ only screen and (min-resolution:2dppx) {
         grid-gap: 0;
     }
     .custom-ban-form {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     margin-top: 20px;
 }
 

@@ -18,10 +18,7 @@
                     <!-- <li >
                         <img  src="assets/images/IC-4.webp" alt="" style="width: 90%;">
                     </li> -->
-                    <li>
-
-                        <img src="assets/images/IC-5.webp" alt="">
-                    </li>
+                  
 
                     <li>
 
@@ -38,6 +35,10 @@
                     <li>
                         <img src="assets/images/IC-9.webp" alt="">
                     </li>
+                      <!-- <li >
+
+                        <img class="none" src="assets/images/IC-5.webp" alt="">
+                    </li> -->
                     <!-- <li>
 
                         <img src="assets/images/cl-10.png" alt="">

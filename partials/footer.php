@@ -106,13 +106,13 @@
                         </div>
                         <div class="col-lg col-b-2">
                             <p>Make a Call</p>
-                            <a href="tel:(551) 290-8897" class="con-cta-btn ct-b2">(551) 290-8897</a>
+                            <a href="tel:(949) 229-7288" class="con-cta-btn ct-b2">(949) 229-7288</a>
                         </div>
                         <div class="col-lg p0 col-b-3">
                             <p>Send us Email</p>
-                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@donaldsbookpublishing.com"
+                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marketing@donaldsbookpublishing.com"
                                 target="_blank" class="con-cta-btn ct-b3">
-                                info@donaldsbookpublishing.com
+                                marketing@donaldsbookpublishing.com
                             </a>
                             <!-- <a href="cdn-cgi/l/email-protection.html#09787c6c7b70496770797c6b65607a616c7b7a276a66"
                                 class="con-cta-btn ct-b3"><span class="__cf_email__"
@@ -189,7 +189,7 @@
 
                     <!-- <p><span class="fa fa-map-marker" style="padding: 5px;"></span>445 Broad Hollow Rd
             Melville, NY 11747</p> -->
-                    <a class="address">
+                    <a href="https://maps.app.goo.gl/2wmHNekqYoK55Uoo6" class="address">
                         <p><span class="fa fa-map-marker" style="padding: 5px;"></span>401 Park Avenue South New York NY
                             10016</p>
                     </a>
@@ -213,12 +213,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-sm-6 col-lg-6 col-md-6">
-                <ul style="list-style: none;
-    display: inline-flex;
-    font-size: 13px;
-    color: #fff;
-    padding: 0;
-    margin: 0;">
+                <ul class="social-icons">
                     <li><a href="https://www.facebook.com/profile.php?id=61574978285920"><span
                                 style=" padding: 2px; color:#fff;" class="fa fa-facebook"></span></a>
                         <a href="https://www.instagram.com/donaldsbookpublishing/"><span
@@ -356,7 +351,7 @@
         </a>
         <a href="tel:+19292245924" class="call_wrap">
             <span class="icoo"><i class="fa fa-phone"></i></span>
-            <span>(551) 290-8897</span>
+            <span>(949) 229-7288</span>
         </a>
     </div>
     <div class="clickbutton">

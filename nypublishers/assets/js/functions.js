@@ -965,23 +965,29 @@ $("#phone-country,#phone-coun").intlTelInput({
                 }],
             }),
             $(".book-covers").slick({
-                dots: !1,
-                arrows: !0,
-                speed: 1e3,
+    dots: false,
+    arrows: true,
+    speed: 1000,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    adaptiveHeight: false,
+    infinite: true,
+
+    responsive: [
+        {
+            breakpoint: 768,
+            settings: {
                 slidesToShow: 1,
-                autoplay: !0,
-                autoplaySpeed: 1e3,
-                adaptiveHeight: !0,
-                responsive: [{
-                    breakpoint: 767,
-                    settings: {
-                        dots: !1,
-                        arrows: !1,
-                        slidesToShow: 1,
-                        slidesToScroll: 1
-                    }
-                }],
-            }),
+                slidesToScroll: 1,
+                arrows: false,
+                dots: false
+            }
+        }
+    ]
+});
+
             $(".cs-slider").slick({
                 dots: !1,
                 arrows: !1,
@@ -1596,24 +1602,30 @@ $gallery.on("init", function (t, e) {
         },
     })),
     wow.init(),
-    $(".book-covers").slick({
-        dots: !1,
-        arrows: !0,
-        speed: 1e3,
-        slidesToShow: 5,
-        autoplay: !0,
-        autoplaySpeed: 1e3,
-        adaptiveHeight: !0,
-        responsive: [{
-            breakpoint: 767,
+   $(".book-covers").slick({
+    dots: false,
+    arrows: true,
+    speed: 1000,
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    adaptiveHeight: false,
+    infinite: true,
+
+    responsive: [
+        {
+            breakpoint: 768,
             settings: {
-                dots: !1,
-                arrows: !1,
                 slidesToShow: 1,
-                slidesToScroll: 1
+                slidesToScroll: 1,
+                arrows: false,
+                dots: false
             }
-        }],
-    }),
+        }
+    ]
+});
+
     $(".book-covers-2").slick({
         dots: !1,
         arrows: !0,

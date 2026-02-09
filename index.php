@@ -146,15 +146,15 @@
                     </p>
                     <ul>
 
-                        <li>Ghostwriting Services </li>
-                        <li>Professional Editing & Proofreading </li>
-                        <li> Cover Design & Illustrations
+                        <li><a href="book-writing-services"> Book Writing Services </a></li>
+                        <li><a href="book-printing-services"> Professional Editing & Proofreading </a></li>
+                        <li><a href="book-illustration-services"> Cover Design & Illustrations </a>
                         </li>
-                        <li>Book Promotions & Marketing
+                        <li><a href="book-marketing-services"> Book Promotions & Marketing </a>
                         </li>
-                        <li>Amazon Publishing & Printing
+                        <li><a href="amazon-publishing-services"> Amazon Publishing & Printing </a>
                         </li>
-                        <li>Children’s Book Illustration & Publishing
+                        <li><a href="children-book-services"> Children’s Book Illustration & Publishing </a>
                         </li>
 
 

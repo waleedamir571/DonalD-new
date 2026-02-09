@@ -36,7 +36,7 @@ switch ($functions) {
     break;
   case "about-us.php";
     $title_name = "About Donald’s Book Publishing | Empowering Independent Authors";
-    $description = "Learn about Donald’s Book Publishing—your trusted partner in self-publishing, editing, and marketing books. We help authors bring their stories to life.";
+    $description = " Learn about Donald’s Book Publishing and our mission.";
     $keywords = "Donald’s Book Publishing, about book publisher, publishing support for authors";
 
     break;
@@ -246,20 +246,15 @@ Donald’s Book Publishing supports authors every step of the way";
 
     break;
     case "testimonials.php";
-    $title_name = "testimonials | Donald’s Book Publishing – ";
-    $description = "testimonials";
+    $title_name = "Reviews | Donald’s Book Publishing – ";
+    $description = "Reviews";
     $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
 
     break;
-    case "portfolio.php";
-    $title_name = "portfolio | Donald’s Book Publishing – ";
-    $description = "portfolio";
-    $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
-
-    break;
+    
      case "portfolio.php";
-    $title_name = "portfolio | Donald’s Book Publishing – ";
-    $description = "portfolio";
+    $title_name = "Portfolio | Donald’s Book Publishing – ";
+    $description = "Portfolio";
     $keywords = " Donald’s Book Publishing privacy policy, data protection policy, how we use your data, personal information privacy, user data policy USA, website privacy practices ";
 
     break;

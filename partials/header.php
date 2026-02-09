@@ -1,6 +1,9 @@
 
 <?php include 'backend/function/meta.php' ?>
 
+
+
+
 <!doctype html>
 <html lang="en-US">
 
@@ -48,7 +51,22 @@
     <link rel="stylesheet" type="text/css" href="nypublishers/assets/css/style.css">
     <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
 
-    
+
+
+<meta name="google-site-verification" content="xnnzx_WVGxePqQsaIlZ21uN5aVBPjULweDb_y8guZ2Y" />
+     <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17439684795"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'AW-17439684795');
+    </script>
+
+      <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC8B747J" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
    
     <style>
@@ -134,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             class="navbar-toggler-icon"></span>
                     </button>
                     <!-- Brand -->
-                    <div class="logo-area"> <a class="navbar-brand" href="index"><img
+                    <div class="logo-area"> <a class="navbar-brand" href="./"><img
                                 src="nypublishers/assets/images/home/logo.png"> </a>
                     </div>
                     <!-- Links -->
@@ -229,7 +247,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <li class="numberzz gap">
 
                                 <i class="fa fa-phone icon-head"></i><a class="topzz"
-                                    href="tel:(551) 290-8897">(551) 290-8897</a>
+                                    href="tel:(949) 229-7288">(949) 229-7288</a>
 
                             </li>
 

@@ -9,8 +9,8 @@
             </p>
             <p
                 style="font-family: 'Raleway';font-style: normal;font-weight: 700;font-size: 16px;-height: 19px;text-transform: capitalize;margin-bottom: 10px;">
-                <a href="tel:(551) 290-8897">
-                    (551) 290-8897
+                <a href="tel:(949) 229-7288">
+                    (949) 229-7288
                 </a>
             </p>
             <div class="banform">

@@ -3,7 +3,7 @@
 <style>
     @media only screen and (max-width: 769px) and (min-width: 0px) {
         .banneroad01.bprae {
-            height: 165vh !important;
+            height: 145vh !important;
         }
     }
 
@@ -46,7 +46,7 @@
         font-weight: 600;
         text-shadow: 1px 0 0 #000;
         font-size: 45px;
-        text-transform capitalize;
+        text-transform : capitalize;
     }
 
     .font-14 {

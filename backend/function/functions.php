@@ -68,7 +68,7 @@ function nameEmailPhoneMessageForm($data, $connection)
         <p>The Donalds Book Publishing Team.</p>
         <img src='https://donaldsbookpublishing.com/assets/images/home/logo2.png' alt='Donalds Book Publishing' style='max-width: 200px;'>
         <p>Email: <a href='mailto:marketing@donaldsbookpublishing.com'>marketing@donaldsbookpublishing.com</a><br>
-        Phone: <a href='tel:(551) 290-8897'>(551) 290-8897</a><br>
+        Phone: <a href='tel:(949) 229-7288'>(949) 229-7288</a><br>
         Address: 401 Park Avenue South New York NY 10016</p>
     ";
 

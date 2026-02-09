@@ -114,9 +114,8 @@
                             </figure>
                         </div>
                         <div class="rht">
-                            <h3>Crafting a Captivating Plot Through Research </h3>
-                            <p>Our writers delve deep into your idea and research extensively to create a compelling
-                                plot that meets your requirements.</p>
+                            <h3>Story Planning & Research </h3>
+                            <p> We review your idea and do the needed research to shape a clear plan for your book.</p>
                         </div>
                     </li>
 
@@ -129,9 +128,11 @@
                             </figure>
                         </div>
                         <div class="rht">
-                            <h3>Breathing Life into Your Idea with Original Content </h3>
-                            <p>Once you approve the plot outline, our skilled writers will work toward creating a unique
-                                and original first draft.</p>
+                            <h3>Writing Your First Draft
+                            </h3>
+                            <p> After the plan is approved, our writers start work on your first draft with care and
+                                original writing.
+                            </p>
                         </div>
                     </li>
                     <li>
@@ -142,9 +143,10 @@
                             </figure>
                         </div>
                         <div class="rht">
-                            <h3>Perfecting Your Manuscript with Critical Review </h3>
-                            <p>Our team works in tandem to edit, revise and proofread your manuscript to ensure its
-                                flaws are addressed on time. </p>
+                            <h3>Editing & Proofreading </h3>
+                            <p> Our editors review your manuscript, fix errors, and improve flow so your book reads
+                                smoothly.
+                            </p>
                         </div>
                     </li>
                     <li>
@@ -155,9 +157,11 @@
                             </figure>
                         </div>
                         <div class="rht">
-                            <h3>Elevating Your Book with Expert Formatting and Design </h3>
-                            <p>We add the finishing touches to your manuscript by formatting it extensively and
-                                designing it to make it visually appealing.</p>
+                            <h3>Formatting & Design
+                            </h3>
+                            <p> We format your book and design the layout so it looks clean and works well for print and
+                                digital formats.
+                            </p>
                         </div>
                     </li>
                     <li>
@@ -168,9 +172,11 @@
                             </figure>
                         </div>
                         <div class="rht">
-                            <h3>Publishing, Branding, Marketing, and Promotion </h3>
-                            <p>We help you publish your book in your desired format and market it to your target
-                                audience to maximize its potential.</p>
+                            <h3>Publishing & Promotion
+                            </h3>
+                            <p> We help publish your book on your chosen platforms and support basic promotion to reach
+                                readers.
+                            </p>
                         </div>
                     </li>
                 </ul>
@@ -185,14 +191,16 @@
             <div class="col-lg-12">
                 <div class="slutin">
                     <!--     <span class="sbus">Solutions</span>-->
-                    <h2 class="main-heading">You are the Boss! </h2>
-                    <p class="main-para main-para-width">At our book services, you have complete control over your
-                        writing journey. You'll have the final say on everything from edits to pricing. Our skilled
-                        writers are passionate and capable of producing exceptional literary works across various
-                        niches, genres, and industries.</p>
+                    <h2 class="main-heading">You’re in Control
+                    </h2>
+                    <p class="main-para main-para-width">With our book services, you stay in charge of your project. You
+                        decide on edits, timeline, and budget, and nothing moves forward without your approval. Our
+                        writers and editors work closely with you to make sure the work matches your goals.
+                    </p>
 
-                    <p class="main-para main-para-width">We take pride in our adaptability and cater to a range of
-                        genres, niches, and industries, including:</p>
+                    <p class="main-para main-para-width">We work across many genres and topics, and adjust our process
+                        to fit your needs, whether your book is fiction, non-fiction, business, or personal writing.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-10 offset-lg-1">
@@ -273,7 +281,7 @@
                         </li>
                     </ul>
                     <h6>Do you want to get Genre-specific Book Services?</h6>
-                    <span>Give us a call <a href="tel:(551) 290-8897">Toll Free (551) 290-8897</a></span>
+                    <span>Give us a call <a href="tel:(949) 229-7288">Toll Free (949) 229-7288</a></span>
                 </div>
             </div>
         </div>

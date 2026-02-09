@@ -1,3 +1,14 @@
+<!-- Event snippet for Submit lead form (1) conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-17439684795/m88lCMPEnpIbELvx8ftA',
+      'value': 1.0,
+      'currency': 'USD'
+  });
+</script>
+
+
+
 <?php include 'partials/header.php'; ?>
 
 <style>
